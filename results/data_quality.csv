@@ -1,0 +1,8 @@
+check_name,n
+raw rows loaded,12789
+duplicate rows removed,189
+clean rows,12600
+co2e missing -> imputed,252
+co2e negative -> imputed,24
+co2e unit error (kg) -> fixed,49
+unknown sector labels,0

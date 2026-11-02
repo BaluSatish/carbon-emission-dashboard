@@ -1,0 +1,49 @@
+region,sector,co2e_2023_tonnes,pct_of_sector,region_rank_in_sector
+Asia-Pacific,Agriculture & Food,1454602,32.74,1
+North America,Agriculture & Food,1184681,26.67,2
+Europe,Agriculture & Food,851347,19.16,3
+Middle East,Agriculture & Food,432935,9.75,4
+Latin America,Agriculture & Food,276480,6.22,5
+Africa,Agriculture & Food,242502,5.46,6
+Asia-Pacific,Commercial Services,387039,40.76,1
+North America,Commercial Services,176613,18.60,2
+Europe,Commercial Services,159800,16.83,3
+Latin America,Commercial Services,96286,10.14,4
+Middle East,Commercial Services,67706,7.13,5
+Africa,Commercial Services,62199,6.55,6
+Asia-Pacific,Construction,1407166,42.07,1
+North America,Construction,867459,25.94,2
+Europe,Construction,588027,17.58,3
+Middle East,Construction,295557,8.84,4
+Latin America,Construction,99185,2.97,5
+Africa,Construction,87184,2.61,6
+Asia-Pacific,Manufacturing,7541848,35.12,1
+Europe,Manufacturing,4705859,21.91,2
+North America,Manufacturing,4022584,18.73,3
+Middle East,Manufacturing,2656493,12.37,4
+Latin America,Manufacturing,1686156,7.85,5
+Africa,Manufacturing,863499,4.02,6
+Asia-Pacific,Mining,2583191,35.40,1
+Europe,Mining,2156191,29.55,2
+North America,Mining,1222975,16.76,3
+Africa,Mining,666951,9.14,4
+Middle East,Mining,462965,6.34,5
+Latin America,Mining,204656,2.80,6
+Asia-Pacific,Power & Utilities,6872824,41.97,1
+North America,Power & Utilities,2686356,16.40,2
+Africa,Power & Utilities,1950696,11.91,3
+Europe,Power & Utilities,1935221,11.82,4
+Latin America,Power & Utilities,1541343,9.41,5
+Middle East,Power & Utilities,1389189,8.48,6
+Asia-Pacific,Transportation,3482234,32.59,1
+Europe,Transportation,2244326,21.00,2
+North America,Transportation,2015702,18.86,3
+Middle East,Transportation,1283981,12.02,4
+Latin America,Transportation,1112042,10.41,5
+Africa,Transportation,547507,5.12,6
+Europe,Waste Management,661880,31.57,1
+Asia-Pacific,Waste Management,540298,25.77,2
+North America,Waste Management,390404,18.62,3
+Africa,Waste Management,223077,10.64,4
+Middle East,Waste Management,192291,9.17,5
+Latin America,Waste Management,88756,4.23,6

@@ -1,0 +1,73 @@
+sector,year,tco2e_per_musd,avg_renewable_pct
+Agriculture & Food,2015,429.2,13.9
+Agriculture & Food,2016,428.6,14.8
+Agriculture & Food,2017,425.2,16.3
+Agriculture & Food,2018,430.6,17.9
+Agriculture & Food,2019,423.6,18.6
+Agriculture & Food,2020,423.1,19.7
+Agriculture & Food,2021,426.5,21.1
+Agriculture & Food,2022,424.7,22.5
+Agriculture & Food,2023,432.0,23.6
+Commercial Services,2015,77.7,35.5
+Commercial Services,2016,78.7,36.2
+Commercial Services,2017,78.8,37.4
+Commercial Services,2018,78.1,38.5
+Commercial Services,2019,79.4,39.6
+Commercial Services,2020,79.4,40.9
+Commercial Services,2021,78.2,41.9
+Commercial Services,2022,79.0,43.5
+Commercial Services,2023,77.6,44.7
+Construction,2015,318.3,7.9
+Construction,2016,311.7,10.9
+Construction,2017,312.3,10.8
+Construction,2018,312.2,12.6
+Construction,2019,314.4,14.5
+Construction,2020,308.0,14.5
+Construction,2021,312.8,15.3
+Construction,2022,311.5,16.8
+Construction,2023,318.4,18.4
+Manufacturing,2015,1032.4,17.7
+Manufacturing,2016,1025.1,18.8
+Manufacturing,2017,1014.3,20.6
+Manufacturing,2018,1023.6,21.7
+Manufacturing,2019,1023.3,22.3
+Manufacturing,2020,1017.1,24.1
+Manufacturing,2021,1027.4,24.7
+Manufacturing,2022,1016.7,26.9
+Manufacturing,2023,1025.6,28.0
+Mining,2015,1096.1,12.2
+Mining,2016,1040.3,12.6
+Mining,2017,1033.6,14.5
+Mining,2018,1040.4,16.7
+Mining,2019,1029.1,17.5
+Mining,2020,1023.7,19.0
+Mining,2021,1016.8,20.6
+Mining,2022,1029.4,21.2
+Mining,2023,1049.9,21.2
+Power & Utilities,2015,1713.4,30.4
+Power & Utilities,2016,1806.5,30.9
+Power & Utilities,2017,1805.0,31.8
+Power & Utilities,2018,1775.7,33.6
+Power & Utilities,2019,1791.2,34.5
+Power & Utilities,2020,1785.6,37.0
+Power & Utilities,2021,1756.6,36.7
+Power & Utilities,2022,1777.3,38.7
+Power & Utilities,2023,1759.4,39.2
+Transportation,2015,689.8,6.3
+Transportation,2016,698.6,7.4
+Transportation,2017,688.6,9.2
+Transportation,2018,691.0,10.2
+Transportation,2019,676.8,11.2
+Transportation,2020,694.0,11.9
+Transportation,2021,705.5,13.3
+Transportation,2022,688.2,14.5
+Transportation,2023,689.4,14.9
+Waste Management,2015,508.4,11.0
+Waste Management,2016,512.9,12.5
+Waste Management,2017,530.2,14.9
+Waste Management,2018,506.8,15.3
+Waste Management,2019,502.9,15.0
+Waste Management,2020,513.2,16.8
+Waste Management,2021,501.0,17.2
+Waste Management,2022,510.1,20.1
+Waste Management,2023,508.1,20.4

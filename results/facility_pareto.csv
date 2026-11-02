@@ -1,0 +1,1401 @@
+facility_id,sector,region,co2e_2023_tonnes,facility_rank,decile,cumulative_share_pct
+F00467,Power & Utilities,Africa,621245,1,1,0.93
+F00410,Power & Utilities,Asia-Pacific,620930,2,1,1.86
+F00404,Power & Utilities,Asia-Pacific,535922,3,1,2.67
+F00480,Power & Utilities,Latin America,478992,4,1,3.39
+F00428,Power & Utilities,Asia-Pacific,468265,5,1,4.09
+F00427,Power & Utilities,Latin America,436508,6,1,4.74
+F00422,Power & Utilities,North America,396648,7,1,5.34
+F00073,Manufacturing,Middle East,396072,8,1,5.93
+F00412,Power & Utilities,Asia-Pacific,376423,9,1,6.50
+F00464,Power & Utilities,Asia-Pacific,347654,10,1,7.02
+F00463,Power & Utilities,Middle East,346718,11,1,7.54
+F00245,Manufacturing,Europe,335829,12,1,8.04
+F00674,Transportation,Middle East,325090,13,1,8.53
+F00491,Mining,Europe,319365,14,1,9.01
+F00409,Power & Utilities,North America,301689,15,1,9.46
+F00456,Power & Utilities,Asia-Pacific,301373,16,1,9.91
+F00445,Power & Utilities,Latin America,292508,17,1,10.35
+F00570,Mining,Asia-Pacific,280109,18,1,10.77
+F00481,Power & Utilities,North America,275878,19,1,11.19
+F00765,Transportation,Asia-Pacific,266740,20,1,11.59
+F00469,Power & Utilities,North America,260942,21,1,11.98
+F00430,Power & Utilities,Asia-Pacific,258123,22,1,12.36
+F00462,Power & Utilities,Africa,253742,23,1,12.74
+F00614,Transportation,Asia-Pacific,252555,24,1,13.12
+F00009,Manufacturing,Asia-Pacific,250736,25,1,13.50
+F00559,Mining,North America,236569,26,1,13.85
+F00047,Manufacturing,Asia-Pacific,233729,27,1,14.21
+F00040,Manufacturing,Asia-Pacific,229952,28,1,14.55
+F00382,Power & Utilities,Europe,227280,29,1,14.89
+F00508,Mining,North America,225107,30,1,15.23
+F00396,Power & Utilities,Africa,224377,31,1,15.57
+F00742,Transportation,Asia-Pacific,222718,32,1,15.90
+F00563,Mining,Europe,222038,33,1,16.23
+F00392,Power & Utilities,Asia-Pacific,221099,34,1,16.56
+F00186,Manufacturing,Middle East,220565,35,1,16.89
+F00437,Power & Utilities,Asia-Pacific,218717,36,1,17.22
+F00066,Manufacturing,Europe,214625,37,1,17.54
+F00413,Power & Utilities,North America,213724,38,1,17.87
+F00420,Power & Utilities,Asia-Pacific,213103,39,1,18.19
+F01077,Agriculture & Food,Asia-Pacific,208892,40,1,18.50
+F00475,Power & Utilities,Middle East,204161,41,1,18.80
+F00402,Power & Utilities,Asia-Pacific,203709,42,1,19.11
+F00397,Power & Utilities,North America,203123,43,1,19.41
+F00643,Transportation,North America,199872,44,1,19.71
+F00720,Transportation,North America,196460,45,1,20.01
+F00443,Power & Utilities,Europe,194848,46,1,20.30
+F00147,Manufacturing,Europe,192675,47,1,20.59
+F00448,Power & Utilities,Asia-Pacific,192014,48,1,20.88
+F00441,Power & Utilities,Latin America,189542,49,1,21.16
+F00682,Transportation,Europe,187677,50,1,21.44
+F00553,Mining,Asia-Pacific,186513,51,1,21.72
+F00045,Manufacturing,Asia-Pacific,180673,52,1,22.00
+F00055,Manufacturing,Asia-Pacific,180597,53,1,22.27
+F00407,Power & Utilities,Asia-Pacific,179009,54,1,22.53
+F00579,Mining,Asia-Pacific,175429,55,1,22.80
+F00330,Manufacturing,Middle East,174176,56,1,23.06
+F00132,Manufacturing,Europe,169016,57,1,23.31
+F00408,Power & Utilities,North America,164011,58,1,23.56
+F00415,Power & Utilities,Asia-Pacific,163410,59,1,23.80
+F00070,Manufacturing,Latin America,162707,60,1,24.05
+F00473,Power & Utilities,Africa,162556,61,1,24.29
+F00072,Manufacturing,Europe,160209,62,1,24.53
+F00528,Mining,Asia-Pacific,159906,63,1,24.77
+F00773,Transportation,Asia-Pacific,158626,64,1,25.01
+F00218,Manufacturing,Europe,158363,65,1,25.25
+F00446,Power & Utilities,Asia-Pacific,158288,66,1,25.48
+F00399,Power & Utilities,North America,157479,67,1,25.72
+F00506,Mining,Asia-Pacific,156837,68,1,25.96
+F00426,Power & Utilities,Asia-Pacific,154840,69,1,26.19
+F00199,Manufacturing,Asia-Pacific,153532,70,1,26.42
+F00487,Power & Utilities,Europe,153365,71,1,26.65
+F00756,Transportation,Middle East,153327,72,1,26.88
+F00326,Manufacturing,North America,153134,73,1,27.11
+F00466,Power & Utilities,Asia-Pacific,152915,74,1,27.34
+F00090,Manufacturing,Asia-Pacific,151422,75,1,27.56
+F00461,Power & Utilities,North America,150212,76,1,27.79
+F00056,Manufacturing,Asia-Pacific,148952,77,1,28.01
+F00490,Power & Utilities,Middle East,148511,78,1,28.24
+F00748,Transportation,Latin America,146619,79,1,28.46
+F00453,Power & Utilities,Asia-Pacific,146301,80,1,28.68
+F00387,Power & Utilities,Africa,145456,81,1,28.89
+F00262,Manufacturing,Africa,145197,82,1,29.11
+F00660,Transportation,Latin America,145151,83,1,29.33
+F00555,Mining,North America,143739,84,1,29.54
+F00907,Construction,North America,141681,85,1,29.76
+F01039,Agriculture & Food,Asia-Pacific,138929,86,1,29.97
+F00368,Manufacturing,Asia-Pacific,138543,87,1,30.17
+F00424,Power & Utilities,Middle East,136907,88,1,30.38
+F00554,Mining,Europe,136226,89,1,30.58
+F00513,Mining,Europe,135952,90,1,30.79
+F00417,Power & Utilities,Europe,135713,91,1,30.99
+F00328,Manufacturing,Middle East,135179,92,1,31.19
+F00595,Transportation,North America,134714,93,1,31.40
+F00136,Manufacturing,Europe,134660,94,1,31.60
+F00472,Power & Utilities,Middle East,134242,95,1,31.80
+F00436,Power & Utilities,Asia-Pacific,133604,96,1,32.00
+F00088,Manufacturing,Europe,131380,97,1,32.20
+F00216,Manufacturing,Latin America,131173,98,1,32.39
+F00525,Mining,Asia-Pacific,130854,99,1,32.59
+F00489,Power & Utilities,Asia-Pacific,129675,100,1,32.78
+F00458,Power & Utilities,Asia-Pacific,129202,101,1,32.98
+F00244,Manufacturing,Europe,129068,102,1,33.17
+F00758,Transportation,Asia-Pacific,127334,103,1,33.36
+F00504,Mining,Asia-Pacific,127070,104,1,33.55
+F00575,Mining,Asia-Pacific,126539,105,1,33.74
+F00391,Power & Utilities,Latin America,125989,106,1,33.93
+F00580,Mining,Europe,125791,107,1,34.12
+F00265,Manufacturing,North America,125210,108,1,34.31
+F00359,Manufacturing,Asia-Pacific,125076,109,1,34.50
+F00484,Power & Utilities,Asia-Pacific,123844,110,1,34.68
+F00421,Power & Utilities,Middle East,123709,111,1,34.87
+F00323,Manufacturing,Asia-Pacific,123618,112,1,35.05
+F00381,Power & Utilities,Asia-Pacific,123174,113,1,35.24
+F00270,Manufacturing,Europe,122954,114,1,35.42
+F00210,Manufacturing,North America,122877,115,1,35.61
+F00384,Power & Utilities,Europe,122539,116,1,35.79
+F00488,Power & Utilities,Asia-Pacific,122033,117,1,35.97
+F00675,Transportation,Middle East,121574,118,1,36.16
+F00457,Power & Utilities,Asia-Pacific,121235,119,1,36.34
+F00546,Mining,Middle East,120140,120,1,36.52
+F00712,Transportation,Asia-Pacific,119616,121,1,36.70
+F00536,Mining,Asia-Pacific,119060,122,1,36.88
+F00414,Power & Utilities,Asia-Pacific,116969,123,1,37.05
+F00307,Manufacturing,North America,115811,124,1,37.22
+F00649,Transportation,Asia-Pacific,115616,125,1,37.40
+F00287,Manufacturing,North America,115093,126,1,37.57
+F00662,Transportation,Asia-Pacific,114262,127,1,37.74
+F00068,Manufacturing,Asia-Pacific,113530,128,1,37.91
+F00429,Power & Utilities,Europe,112862,129,1,38.08
+F00167,Manufacturing,North America,111836,130,1,38.25
+F00523,Mining,Europe,111736,131,1,38.42
+F00418,Power & Utilities,Asia-Pacific,111700,132,1,38.58
+F00106,Manufacturing,Asia-Pacific,111599,133,1,38.75
+F00406,Power & Utilities,Asia-Pacific,111547,134,1,38.92
+F00223,Manufacturing,North America,111486,135,1,39.09
+F00075,Manufacturing,Asia-Pacific,111364,136,1,39.25
+F00723,Transportation,North America,111273,137,1,39.42
+F00524,Mining,Asia-Pacific,109961,138,1,39.59
+F00053,Manufacturing,Middle East,109599,139,1,39.75
+F00051,Manufacturing,Africa,109483,140,1,39.91
+F00502,Mining,Europe,108807,141,2,40.08
+F00722,Transportation,Asia-Pacific,108726,142,2,40.24
+F00386,Power & Utilities,Africa,108650,143,2,40.40
+F00869,Construction,Asia-Pacific,108461,144,2,40.57
+F00220,Manufacturing,North America,108419,145,2,40.73
+F00537,Mining,Asia-Pacific,108388,146,2,40.89
+F00657,Transportation,Africa,108190,147,2,41.05
+F00144,Manufacturing,Asia-Pacific,108064,148,2,41.22
+F00280,Manufacturing,Asia-Pacific,107604,149,2,41.38
+F00511,Mining,Europe,107510,150,2,41.54
+F00449,Power & Utilities,Asia-Pacific,106777,151,2,41.70
+F00129,Manufacturing,North America,106642,152,2,41.86
+F00565,Mining,Europe,106348,153,2,42.02
+F00465,Power & Utilities,Middle East,106112,154,2,42.18
+F00197,Manufacturing,Middle East,104811,155,2,42.33
+F00701,Transportation,Asia-Pacific,104411,156,2,42.49
+F00661,Transportation,Asia-Pacific,104029,157,2,42.65
+F00672,Transportation,Asia-Pacific,103759,158,2,42.80
+F00259,Manufacturing,Asia-Pacific,103226,159,2,42.96
+F00568,Mining,Asia-Pacific,102702,160,2,43.11
+F00602,Transportation,Middle East,102008,161,2,43.26
+F00451,Power & Utilities,Middle East,101492,162,2,43.42
+F00108,Manufacturing,Middle East,101102,163,2,43.57
+F00539,Mining,Middle East,100986,164,2,43.72
+F00309,Manufacturing,Europe,100238,165,2,43.87
+F00535,Mining,Asia-Pacific,100180,166,2,44.02
+F00140,Manufacturing,Europe,100112,167,2,44.17
+F00099,Manufacturing,North America,98778,168,2,44.32
+F00482,Power & Utilities,Europe,98416,169,2,44.47
+F01180,Waste Management,Middle East,97834,170,2,44.61
+F00557,Mining,Africa,96246,171,2,44.76
+F00401,Power & Utilities,Europe,95664,172,2,44.90
+F00350,Manufacturing,Asia-Pacific,94823,173,2,45.04
+F00130,Manufacturing,North America,94027,174,2,45.18
+F00078,Manufacturing,North America,94024,175,2,45.33
+F00194,Manufacturing,Middle East,93395,176,2,45.47
+F00725,Transportation,Asia-Pacific,92831,177,2,45.60
+F00478,Power & Utilities,North America,92749,178,2,45.74
+F00173,Manufacturing,Middle East,92386,179,2,45.88
+F00454,Power & Utilities,Europe,91661,180,2,46.02
+F00093,Manufacturing,North America,91282,181,2,46.16
+F00503,Mining,Asia-Pacific,91183,182,2,46.29
+F00610,Transportation,Asia-Pacific,91017,183,2,46.43
+F00476,Power & Utilities,Europe,90854,184,2,46.57
+F00589,Transportation,North America,89782,185,2,46.70
+F00431,Power & Utilities,Asia-Pacific,89710,186,2,46.84
+F00318,Manufacturing,North America,89437,187,2,46.97
+F00298,Manufacturing,North America,88999,188,2,47.10
+F00854,Construction,Asia-Pacific,87624,189,2,47.23
+F00718,Transportation,Europe,87537,190,2,47.37
+F00240,Manufacturing,Europe,87160,191,2,47.50
+F00529,Mining,Africa,86691,192,2,47.63
+F00095,Manufacturing,Asia-Pacific,86624,193,2,47.76
+F00393,Power & Utilities,Asia-Pacific,86602,194,2,47.89
+F00398,Power & Utilities,Africa,86386,195,2,48.02
+F00212,Manufacturing,Asia-Pacific,86243,196,2,48.15
+F00493,Mining,North America,85749,197,2,48.27
+F01092,Waste Management,Asia-Pacific,85697,198,2,48.40
+F00015,Manufacturing,Asia-Pacific,85313,199,2,48.53
+F00030,Manufacturing,Middle East,84991,200,2,48.66
+F00156,Manufacturing,Europe,84493,201,2,48.78
+F00206,Manufacturing,Asia-Pacific,84457,202,2,48.91
+F00195,Manufacturing,Asia-Pacific,84346,203,2,49.04
+F00435,Power & Utilities,Europe,84088,204,2,49.16
+F00229,Manufacturing,Asia-Pacific,83854,205,2,49.29
+F00001,Manufacturing,Middle East,83802,206,2,49.42
+F00617,Transportation,Asia-Pacific,83591,207,2,49.54
+F00576,Mining,North America,83579,208,2,49.67
+F00394,Power & Utilities,Europe,83109,209,2,49.79
+F00353,Manufacturing,Latin America,82922,210,2,49.92
+F00159,Manufacturing,Asia-Pacific,82598,211,2,50.04
+F00740,Transportation,Africa,82502,212,2,50.16
+F00732,Transportation,North America,82471,213,2,50.29
+F00444,Power & Utilities,Asia-Pacific,82130,214,2,50.41
+F00527,Mining,Africa,82104,215,2,50.53
+F00658,Transportation,Europe,82040,216,2,50.66
+F00115,Manufacturing,Asia-Pacific,81880,217,2,50.78
+F00929,Construction,North America,81194,218,2,50.90
+F00019,Manufacturing,North America,80638,219,2,51.02
+F01017,Agriculture & Food,Asia-Pacific,80524,220,2,51.14
+F00667,Transportation,Latin America,80424,221,2,51.26
+F00286,Manufacturing,Middle East,80415,222,2,51.38
+F00193,Manufacturing,Asia-Pacific,80234,223,2,51.50
+F00666,Transportation,Europe,79977,224,2,51.62
+F00295,Manufacturing,Asia-Pacific,79918,225,2,51.74
+F00185,Manufacturing,Asia-Pacific,79788,226,2,51.86
+F00292,Manufacturing,North America,79590,227,2,51.98
+F00518,Mining,Asia-Pacific,79532,228,2,52.10
+F00625,Transportation,Europe,79163,229,2,52.22
+F00515,Mining,North America,79071,230,2,52.34
+F00275,Manufacturing,Middle East,79044,231,2,52.46
+F00303,Manufacturing,Asia-Pacific,78796,232,2,52.58
+F00571,Mining,North America,78628,233,2,52.69
+F00148,Manufacturing,Asia-Pacific,77731,234,2,52.81
+F00063,Manufacturing,Asia-Pacific,77259,235,2,52.93
+F00816,Construction,Asia-Pacific,77029,236,2,53.04
+F00390,Power & Utilities,Asia-Pacific,76965,237,2,53.16
+F00620,Transportation,North America,76795,238,2,53.27
+F00362,Manufacturing,Europe,76751,239,2,53.39
+F00012,Manufacturing,North America,76324,240,2,53.50
+F00650,Transportation,Middle East,76284,241,2,53.62
+F00313,Manufacturing,Asia-Pacific,75886,242,2,53.73
+F00654,Transportation,Asia-Pacific,75781,243,2,53.84
+F00733,Transportation,Asia-Pacific,75496,244,2,53.96
+F00008,Manufacturing,Asia-Pacific,75332,245,2,54.07
+F00062,Manufacturing,Asia-Pacific,75075,246,2,54.18
+F00485,Power & Utilities,North America,74961,247,2,54.30
+F00909,Construction,Middle East,74789,248,2,54.41
+F00670,Transportation,Europe,74478,249,2,54.52
+F00092,Manufacturing,North America,74416,250,2,54.63
+F00083,Manufacturing,Asia-Pacific,74365,251,2,54.74
+F00516,Mining,Africa,74287,252,2,54.85
+F00530,Mining,Europe,74279,253,2,54.97
+F00116,Manufacturing,Asia-Pacific,74127,254,2,55.08
+F00026,Manufacturing,Asia-Pacific,73791,255,2,55.19
+F00032,Manufacturing,Asia-Pacific,73725,256,2,55.30
+F00022,Manufacturing,Asia-Pacific,73603,257,2,55.41
+F01000,Agriculture & Food,Europe,73516,258,2,55.52
+F01140,Waste Management,Africa,73163,259,2,55.63
+F00500,Mining,North America,72976,260,2,55.74
+F00204,Manufacturing,Europe,72687,261,2,55.85
+F00486,Power & Utilities,Asia-Pacific,72652,262,2,55.96
+F00497,Mining,Africa,72597,263,2,56.06
+F00334,Manufacturing,North America,72574,264,2,56.17
+F00721,Transportation,Africa,72514,265,2,56.28
+F00077,Manufacturing,Asia-Pacific,70460,266,2,56.39
+F00494,Mining,Europe,70446,267,2,56.49
+F00219,Manufacturing,Europe,70106,268,2,56.60
+F00514,Mining,Europe,69996,269,2,56.70
+F00656,Transportation,Europe,69792,270,2,56.81
+F00411,Power & Utilities,Africa,69693,271,2,56.91
+F01155,Waste Management,Europe,69609,272,2,57.02
+F00246,Manufacturing,Europe,69586,273,2,57.12
+F00678,Transportation,North America,69553,274,2,57.23
+F00419,Power & Utilities,Africa,69299,275,2,57.33
+F00439,Power & Utilities,Africa,69259,276,2,57.43
+F00728,Transportation,Asia-Pacific,69057,277,2,57.54
+F00221,Manufacturing,Asia-Pacific,69055,278,2,57.64
+F00300,Manufacturing,Latin America,68299,279,2,57.74
+F01023,Agriculture & Food,North America,68273,280,2,57.85
+F00020,Manufacturing,Europe,68267,281,3,57.95
+F00345,Manufacturing,Europe,68230,282,3,58.05
+F00736,Transportation,Asia-Pacific,68175,283,3,58.15
+F00572,Mining,Europe,68156,284,3,58.26
+F00450,Power & Utilities,North America,67937,285,3,58.36
+F00395,Power & Utilities,Africa,67876,286,3,58.46
+F00058,Manufacturing,Asia-Pacific,67772,287,3,58.56
+F00248,Manufacturing,Asia-Pacific,67757,288,3,58.66
+F00255,Manufacturing,Latin America,67739,289,3,58.76
+F01075,Agriculture & Food,North America,66937,290,3,58.86
+F00541,Mining,Asia-Pacific,66915,291,3,58.96
+F00477,Power & Utilities,Europe,66700,292,3,59.06
+F00372,Manufacturing,Asia-Pacific,66502,293,3,59.16
+F00715,Transportation,North America,66432,294,3,59.26
+F00252,Manufacturing,Asia-Pacific,66276,295,3,59.36
+F01005,Agriculture & Food,Asia-Pacific,66274,296,3,59.46
+F00321,Manufacturing,Latin America,65886,297,3,59.56
+F00333,Manufacturing,Latin America,65459,298,3,59.66
+F00043,Manufacturing,Asia-Pacific,65413,299,3,59.76
+F00583,Transportation,Asia-Pacific,65359,300,3,59.86
+F00604,Transportation,Middle East,65282,301,3,59.95
+F00730,Transportation,Europe,65153,302,3,60.05
+F00593,Transportation,Asia-Pacific,65074,303,3,60.15
+F00519,Mining,Middle East,65015,304,3,60.25
+F00121,Manufacturing,Middle East,64943,305,3,60.34
+F00549,Mining,Asia-Pacific,64619,306,3,60.44
+F00741,Transportation,North America,64378,307,3,60.54
+F00761,Transportation,Latin America,64325,308,3,60.63
+F00320,Manufacturing,Europe,64289,309,3,60.73
+F00423,Power & Utilities,North America,63965,310,3,60.83
+F00605,Transportation,Europe,63919,311,3,60.92
+F00117,Manufacturing,Asia-Pacific,63630,312,3,61.02
+F01158,Waste Management,North America,62513,313,3,61.11
+F00138,Manufacturing,North America,62397,314,3,61.21
+F00260,Manufacturing,North America,62146,315,3,61.30
+F00164,Manufacturing,Europe,61865,316,3,61.39
+F00134,Manufacturing,North America,61818,317,3,61.48
+F00388,Power & Utilities,North America,61754,318,3,61.58
+F00799,Construction,Middle East,61396,319,3,61.67
+F00036,Manufacturing,Europe,61378,320,3,61.76
+F00084,Manufacturing,Middle East,61032,321,3,61.85
+F00166,Manufacturing,Asia-Pacific,60909,322,3,61.94
+F00389,Power & Utilities,Asia-Pacific,60779,323,3,62.03
+F00471,Power & Utilities,Asia-Pacific,60134,324,3,62.13
+F00272,Manufacturing,Asia-Pacific,60101,325,3,62.22
+F00774,Transportation,Asia-Pacific,60093,326,3,62.31
+F00780,Transportation,Latin America,59962,327,3,62.40
+F00403,Power & Utilities,Africa,59962,328,3,62.49
+F00520,Mining,Asia-Pacific,59827,329,3,62.58
+F00150,Manufacturing,Europe,59735,330,3,62.66
+F00499,Mining,Africa,59735,331,3,62.75
+F00558,Mining,Asia-Pacific,59710,332,3,62.84
+F01109,Waste Management,Europe,59676,333,3,62.93
+F00434,Power & Utilities,Europe,59523,334,3,63.02
+F00316,Manufacturing,Europe,59453,335,3,63.11
+F00597,Transportation,North America,59363,336,3,63.20
+F00033,Manufacturing,Asia-Pacific,59349,337,3,63.29
+F00168,Manufacturing,Middle East,59326,338,3,63.38
+F01053,Agriculture & Food,North America,59101,339,3,63.47
+F00842,Construction,North America,59032,340,3,63.56
+F00694,Transportation,Asia-Pacific,58997,341,3,63.64
+F00177,Manufacturing,Asia-Pacific,58985,342,3,63.73
+F01019,Agriculture & Food,North America,58946,343,3,63.82
+F00745,Transportation,Latin America,58867,344,3,63.91
+F00746,Transportation,North America,58626,345,3,64.00
+F00283,Manufacturing,North America,58618,346,3,64.09
+F00213,Manufacturing,Latin America,58509,347,3,64.17
+F00365,Manufacturing,Asia-Pacific,58352,348,3,64.26
+F00355,Manufacturing,Europe,58331,349,3,64.35
+F00621,Transportation,Europe,58266,350,3,64.44
+F00512,Mining,Middle East,58164,351,3,64.52
+F00331,Manufacturing,Asia-Pacific,57983,352,3,64.61
+F00370,Manufacturing,North America,57981,353,3,64.70
+F00250,Manufacturing,Middle East,57942,354,3,64.78
+F00373,Manufacturing,Latin America,57926,355,3,64.87
+F00187,Manufacturing,Europe,57920,356,3,64.96
+F00556,Mining,Europe,57891,357,3,65.04
+F00281,Manufacturing,Asia-Pacific,57659,358,3,65.13
+F00273,Manufacturing,North America,57554,359,3,65.22
+F00577,Mining,Middle East,57477,360,3,65.30
+F00592,Transportation,Europe,57410,361,3,65.39
+F00652,Transportation,North America,57322,362,3,65.48
+F00074,Manufacturing,North America,57222,363,3,65.56
+F00517,Mining,Africa,57143,364,3,65.65
+F00757,Transportation,Middle East,57056,365,3,65.73
+F00944,Agriculture & Food,Middle East,57055,366,3,65.82
+F01009,Agriculture & Food,Asia-Pacific,57051,367,3,65.90
+F00452,Power & Utilities,North America,56924,368,3,65.99
+F00113,Manufacturing,Europe,56879,369,3,66.07
+F00612,Transportation,Latin America,56780,370,3,66.16
+F01138,Waste Management,Asia-Pacific,56555,371,3,66.24
+F00789,Construction,North America,56488,372,3,66.33
+F00306,Manufacturing,North America,56451,373,3,66.41
+F00319,Manufacturing,Europe,56419,374,3,66.50
+F00468,Power & Utilities,Europe,56254,375,3,66.58
+F00942,Agriculture & Food,Europe,55929,376,3,66.67
+F00762,Transportation,Europe,55855,377,3,66.75
+F00377,Manufacturing,Europe,55613,378,3,66.83
+F00109,Manufacturing,Africa,55600,379,3,66.92
+F00638,Transportation,Europe,55593,380,3,67.00
+F00692,Transportation,North America,55399,381,3,67.08
+F00367,Manufacturing,Latin America,55202,382,3,67.17
+F00636,Transportation,Europe,55165,383,3,67.25
+F01102,Waste Management,North America,55111,384,3,67.33
+F00278,Manufacturing,Asia-Pacific,55084,385,3,67.41
+F00232,Manufacturing,North America,54841,386,3,67.50
+F00160,Manufacturing,Latin America,54813,387,3,67.58
+F00227,Manufacturing,North America,54795,388,3,67.66
+F00616,Transportation,Middle East,54687,389,3,67.74
+F00054,Manufacturing,Middle East,54590,390,3,67.83
+F00623,Transportation,Europe,54456,391,3,67.91
+F00863,Construction,Asia-Pacific,54368,392,3,67.99
+F01051,Agriculture & Food,Africa,54312,393,3,68.07
+F00014,Manufacturing,North America,54276,394,3,68.15
+F00348,Manufacturing,Asia-Pacific,54247,395,3,68.23
+F00705,Transportation,Europe,54235,396,3,68.31
+F01089,Agriculture & Food,Asia-Pacific,54214,397,3,68.40
+F00289,Manufacturing,North America,54205,398,3,68.48
+F00680,Transportation,North America,54203,399,3,68.56
+F00551,Mining,Africa,54188,400,3,68.64
+F00578,Mining,Asia-Pacific,54004,401,3,68.72
+F00341,Manufacturing,Europe,53876,402,3,68.80
+F00521,Mining,North America,53562,403,3,68.88
+F00432,Power & Utilities,North America,53501,404,3,68.96
+F00567,Mining,Europe,53345,405,3,69.04
+F00299,Manufacturing,Europe,53207,406,3,69.12
+F00766,Transportation,Asia-Pacific,53192,407,3,69.20
+F01044,Agriculture & Food,North America,52863,408,3,69.28
+F00079,Manufacturing,Asia-Pacific,52694,409,3,69.36
+F00049,Manufacturing,Asia-Pacific,52634,410,3,69.44
+F00231,Manufacturing,Asia-Pacific,52336,411,3,69.52
+F00566,Mining,North America,52266,412,3,69.60
+F00581,Transportation,Europe,52253,413,3,69.67
+F01093,Waste Management,Europe,52073,414,3,69.75
+F00668,Transportation,North America,51913,415,3,69.83
+F00225,Manufacturing,North America,51627,416,3,69.91
+F00264,Manufacturing,Europe,50963,417,3,69.98
+F00226,Manufacturing,Asia-Pacific,50873,418,3,70.06
+F01177,Waste Management,Middle East,50697,419,3,70.14
+F00174,Manufacturing,Africa,50276,420,3,70.21
+F00569,Mining,Europe,50212,421,4,70.29
+F00035,Manufacturing,North America,50065,422,4,70.36
+F00719,Transportation,Africa,50046,423,4,70.44
+F00076,Manufacturing,Asia-Pacific,50027,424,4,70.51
+F00080,Manufacturing,Asia-Pacific,50002,425,4,70.59
+F00856,Construction,Asia-Pacific,49783,426,4,70.66
+F00217,Manufacturing,Middle East,49755,427,4,70.74
+F00729,Transportation,Latin America,49507,428,4,70.81
+F00459,Power & Utilities,Europe,49348,429,4,70.88
+F01116,Waste Management,Africa,49068,430,4,70.96
+F00550,Mining,Africa,48993,431,4,71.03
+F00277,Manufacturing,Middle East,48805,432,4,71.10
+F01050,Agriculture & Food,Europe,48516,433,4,71.18
+F00601,Transportation,Europe,48417,434,4,71.25
+F00791,Construction,Middle East,48196,435,4,71.32
+F00325,Manufacturing,Asia-Pacific,48113,436,4,71.39
+F00770,Transportation,Middle East,47862,437,4,71.47
+F00501,Mining,Latin America,47795,438,4,71.54
+F00196,Manufacturing,Latin America,47794,439,4,71.61
+F00344,Manufacturing,Asia-Pacific,47781,440,4,71.68
+F00085,Manufacturing,Middle East,47631,441,4,71.75
+F00655,Transportation,Europe,47267,442,4,71.82
+F00526,Mining,Europe,47199,443,4,71.89
+F00633,Transportation,Asia-Pacific,47184,444,4,71.97
+F00254,Manufacturing,Asia-Pacific,47005,445,4,72.04
+F00126,Manufacturing,Asia-Pacific,47000,446,4,72.11
+F00128,Manufacturing,Europe,46925,447,4,72.18
+F00105,Manufacturing,Asia-Pacific,46908,448,4,72.25
+F00751,Transportation,Asia-Pacific,46901,449,4,72.32
+F00005,Manufacturing,Europe,46847,450,4,72.39
+F00704,Transportation,Asia-Pacific,46796,451,4,72.46
+F00788,Construction,Europe,46777,452,4,72.53
+F00585,Transportation,Latin America,46533,453,4,72.60
+F00531,Mining,Europe,46364,454,4,72.67
+F01030,Agriculture & Food,Asia-Pacific,46331,455,4,72.74
+F00118,Manufacturing,Latin America,46328,456,4,72.81
+F00455,Power & Utilities,Middle East,46150,457,4,72.88
+F00932,Agriculture & Food,Asia-Pacific,45963,458,4,72.94
+F00234,Manufacturing,Europe,45894,459,4,73.01
+F00291,Manufacturing,Europe,45826,460,4,73.08
+F00673,Transportation,Asia-Pacific,45778,461,4,73.15
+F01082,Agriculture & Food,Europe,45767,462,4,73.22
+F00100,Manufacturing,Europe,45692,463,4,73.29
+F00884,Construction,Asia-Pacific,45637,464,4,73.36
+F01083,Agriculture & Food,Middle East,45549,465,4,73.42
+F00544,Mining,Europe,45503,466,4,73.49
+F00332,Manufacturing,Asia-Pacific,45485,467,4,73.56
+F00111,Manufacturing,North America,45362,468,4,73.63
+F00224,Manufacturing,North America,45275,469,4,73.70
+F00540,Mining,Latin America,45241,470,4,73.77
+F00052,Manufacturing,Latin America,45010,471,4,73.83
+F00251,Manufacturing,Asia-Pacific,44997,472,4,73.90
+F00632,Transportation,Europe,44951,473,4,73.97
+F01094,Waste Management,Europe,44907,474,4,74.04
+F00238,Manufacturing,Latin America,44893,475,4,74.10
+F01153,Waste Management,Asia-Pacific,44737,476,4,74.17
+F00653,Transportation,Asia-Pacific,44610,477,4,74.24
+F00139,Manufacturing,North America,44189,478,4,74.30
+F01120,Waste Management,Europe,44104,479,4,74.37
+F00104,Manufacturing,Europe,43999,480,4,74.43
+F00505,Mining,North America,43962,481,4,74.50
+F00684,Transportation,Asia-Pacific,43939,482,4,74.57
+F00637,Transportation,Europe,43931,483,4,74.63
+F00496,Mining,Asia-Pacific,43853,484,4,74.70
+F00296,Manufacturing,Latin America,43849,485,4,74.76
+F00176,Manufacturing,Latin America,43678,486,4,74.83
+F00366,Manufacturing,North America,43494,487,4,74.89
+F00851,Construction,Asia-Pacific,43361,488,4,74.96
+F01141,Waste Management,Asia-Pacific,43331,489,4,75.02
+F00125,Manufacturing,Africa,43259,490,4,75.09
+F00271,Manufacturing,North America,43221,491,4,75.15
+F00205,Manufacturing,Asia-Pacific,43176,492,4,75.22
+F00243,Manufacturing,Asia-Pacific,43109,493,4,75.28
+F01086,Agriculture & Food,Asia-Pacific,43064,494,4,75.35
+F00726,Transportation,North America,43058,495,4,75.41
+F00640,Transportation,Middle East,43049,496,4,75.48
+F00591,Transportation,Latin America,42942,497,4,75.54
+F00888,Construction,North America,42942,498,4,75.61
+F00091,Manufacturing,Europe,42854,499,4,75.67
+F00779,Transportation,North America,42808,500,4,75.74
+F01143,Waste Management,Europe,42652,501,4,75.80
+F00659,Transportation,Latin America,42619,502,4,75.86
+F00383,Power & Utilities,North America,42398,503,4,75.93
+F00631,Transportation,Middle East,42320,504,4,75.99
+F00947,Agriculture & Food,North America,42227,505,4,76.05
+F00124,Manufacturing,Asia-Pacific,42226,506,4,76.12
+F00358,Manufacturing,North America,42211,507,4,76.18
+F00532,Mining,Europe,42182,508,4,76.24
+F01027,Agriculture & Food,Middle East,42172,509,4,76.31
+F01002,Agriculture & Food,Europe,42149,510,4,76.37
+F00994,Agriculture & Food,Europe,42097,511,4,76.43
+F01041,Agriculture & Food,North America,42042,512,4,76.50
+F00759,Transportation,North America,42016,513,4,76.56
+F00871,Construction,Asia-Pacific,41913,514,4,76.62
+F01175,Waste Management,Europe,41606,515,4,76.68
+F00343,Manufacturing,Asia-Pacific,41477,516,4,76.75
+F00374,Manufacturing,Asia-Pacific,41469,517,4,76.81
+F00651,Transportation,Europe,41355,518,4,76.87
+F01046,Agriculture & Food,North America,41201,519,4,76.93
+F00483,Power & Utilities,Middle East,41187,520,4,76.99
+F00329,Manufacturing,North America,41032,521,4,77.06
+F00034,Manufacturing,Europe,40848,522,4,77.12
+F00618,Transportation,North America,40835,523,4,77.18
+F00634,Transportation,Asia-Pacific,40795,524,4,77.24
+F00959,Agriculture & Food,North America,40787,525,4,77.30
+F00050,Manufacturing,Asia-Pacific,40774,526,4,77.36
+F00163,Manufacturing,Europe,40724,527,4,77.42
+F00288,Manufacturing,North America,40626,528,4,77.48
+F00057,Manufacturing,Asia-Pacific,40579,529,4,77.54
+F00082,Manufacturing,Latin America,40416,530,4,77.61
+F00336,Manufacturing,Asia-Pacific,40409,531,4,77.67
+F00534,Mining,Middle East,40359,532,4,77.73
+F00233,Manufacturing,North America,40208,533,4,77.79
+F00200,Manufacturing,Africa,40141,534,4,77.85
+F00031,Manufacturing,Asia-Pacific,40030,535,4,77.91
+F00339,Manufacturing,North America,39941,536,4,77.97
+F00023,Manufacturing,Middle East,39865,537,4,78.03
+F00686,Transportation,North America,39847,538,4,78.09
+F00836,Construction,Asia-Pacific,39740,539,4,78.15
+F01070,Agriculture & Food,Asia-Pacific,39690,540,4,78.21
+F00247,Manufacturing,Europe,39505,541,4,78.27
+F00786,Construction,North America,39431,542,4,78.32
+F00069,Manufacturing,Middle East,39385,543,4,78.38
+F00153,Manufacturing,Europe,39359,544,4,78.44
+F00739,Transportation,Latin America,39255,545,4,78.50
+F00269,Manufacturing,Europe,39192,546,4,78.56
+F00629,Transportation,Asia-Pacific,39174,547,4,78.62
+F00024,Manufacturing,Asia-Pacific,39167,548,4,78.68
+F00971,Agriculture & Food,Asia-Pacific,39119,549,4,78.74
+F00433,Power & Utilities,Europe,38858,550,4,78.79
+F00158,Manufacturing,North America,38857,551,4,78.85
+F00609,Transportation,Latin America,38834,552,4,78.91
+F00311,Manufacturing,Africa,38773,553,4,78.97
+F00237,Manufacturing,Asia-Pacific,38442,554,4,79.03
+F00013,Manufacturing,Latin America,38343,555,4,79.08
+F00492,Mining,Asia-Pacific,38296,556,4,79.14
+F00507,Mining,Latin America,38181,557,4,79.20
+F00239,Manufacturing,Europe,38167,558,4,79.26
+F00689,Transportation,North America,38129,559,4,79.31
+F00046,Manufacturing,Asia-Pacific,38063,560,4,79.37
+F00615,Transportation,Europe,37884,561,5,79.43
+F01012,Agriculture & Food,Middle East,37828,562,5,79.48
+F00928,Construction,Asia-Pacific,37651,563,5,79.54
+F00137,Manufacturing,North America,37585,564,5,79.60
+F00284,Manufacturing,Europe,37581,565,5,79.65
+F01024,Agriculture & Food,North America,37566,566,5,79.71
+F00302,Manufacturing,Europe,37503,567,5,79.77
+F01074,Agriculture & Food,North America,37401,568,5,79.82
+F00823,Construction,Europe,37279,569,5,79.88
+F00357,Manufacturing,Europe,37258,570,5,79.93
+F01033,Agriculture & Food,North America,37134,571,5,79.99
+F01073,Agriculture & Food,Asia-Pacific,37010,572,5,80.05
+F00165,Manufacturing,Africa,36942,573,5,80.10
+F00364,Manufacturing,Europe,36915,574,5,80.16
+F00094,Manufacturing,North America,36888,575,5,80.21
+F00127,Manufacturing,Asia-Pacific,36851,576,5,80.27
+F00731,Transportation,Europe,36841,577,5,80.32
+F00846,Construction,Asia-Pacific,36708,578,5,80.38
+F00587,Transportation,Asia-Pacific,36664,579,5,80.43
+F00479,Power & Utilities,Asia-Pacific,36653,580,5,80.49
+F00747,Transportation,Latin America,36564,581,5,80.54
+F01071,Agriculture & Food,North America,36508,582,5,80.60
+F00989,Agriculture & Food,Middle East,36498,583,5,80.65
+F00016,Manufacturing,Middle East,36454,584,5,80.71
+F00735,Transportation,Middle East,36410,585,5,80.76
+F00574,Mining,Europe,36331,586,5,80.81
+F00785,Construction,Asia-Pacific,36237,587,5,80.87
+F00896,Construction,Asia-Pacific,36153,588,5,80.92
+F00338,Manufacturing,North America,36046,589,5,80.98
+F00510,Mining,North America,35757,590,5,81.03
+F00385,Power & Utilities,Asia-Pacific,35704,591,5,81.08
+F00027,Manufacturing,Europe,35678,592,5,81.14
+F00936,Agriculture & Food,Asia-Pacific,35626,593,5,81.19
+F00089,Manufacturing,Europe,35505,594,5,81.24
+F00474,Power & Utilities,Europe,35502,595,5,81.30
+F00976,Agriculture & Food,Asia-Pacific,35486,596,5,81.35
+F00967,Agriculture & Food,Asia-Pacific,35436,597,5,81.40
+F00222,Manufacturing,Asia-Pacific,35402,598,5,81.46
+F01045,Agriculture & Food,Asia-Pacific,35397,599,5,81.51
+F00405,Power & Utilities,Europe,35388,600,5,81.56
+F00582,Transportation,Africa,35335,601,5,81.62
+F00175,Manufacturing,Asia-Pacific,35236,602,5,81.67
+F00573,Mining,Europe,35230,603,5,81.72
+F01048,Agriculture & Food,North America,35227,604,5,81.78
+F00939,Agriculture & Food,Europe,35165,605,5,81.83
+F00953,Agriculture & Food,Latin America,35109,606,5,81.88
+F00622,Transportation,Africa,35104,607,5,81.93
+F00268,Manufacturing,Europe,35085,608,5,81.99
+F00018,Manufacturing,North America,35080,609,5,82.04
+F00261,Manufacturing,Europe,34878,610,5,82.09
+F00498,Mining,Asia-Pacific,34847,611,5,82.14
+F00977,Agriculture & Food,Middle East,34785,612,5,82.20
+F00588,Transportation,Asia-Pacific,34732,613,5,82.25
+F01055,Agriculture & Food,Asia-Pacific,34585,614,5,82.30
+F01001,Agriculture & Food,Latin America,34433,615,5,82.35
+F00893,Construction,North America,34416,616,5,82.40
+F00584,Transportation,Africa,34384,617,5,82.45
+F00608,Transportation,Middle East,34373,618,5,82.51
+F01069,Agriculture & Food,North America,34372,619,5,82.56
+F00087,Manufacturing,North America,34330,620,5,82.61
+F00149,Manufacturing,Europe,34301,621,5,82.66
+F00179,Manufacturing,Middle East,34020,622,5,82.71
+F00025,Manufacturing,North America,33943,623,5,82.76
+F00235,Manufacturing,Middle East,33790,624,5,82.81
+F00037,Manufacturing,Asia-Pacific,33617,625,5,82.86
+F01032,Agriculture & Food,Asia-Pacific,33508,626,5,82.91
+F00180,Manufacturing,Latin America,33458,627,5,82.96
+F00192,Manufacturing,North America,33399,628,5,83.01
+F00133,Manufacturing,Asia-Pacific,33329,629,5,83.06
+F00611,Transportation,Europe,33157,630,5,83.11
+F00857,Construction,North America,33142,631,5,83.16
+F00743,Transportation,Europe,33058,632,5,83.21
+F00533,Mining,Asia-Pacific,32901,633,5,83.26
+F01132,Waste Management,North America,32889,634,5,83.31
+F01006,Agriculture & Food,Europe,32887,635,5,83.36
+F00724,Transportation,North America,32750,636,5,83.41
+F00628,Transportation,Latin America,32728,637,5,83.46
+F00552,Mining,Latin America,32660,638,5,83.51
+F00980,Agriculture & Food,North America,32649,639,5,83.56
+F00071,Manufacturing,Europe,32633,640,5,83.61
+F00317,Manufacturing,Africa,32627,641,5,83.66
+F00369,Manufacturing,Africa,32575,642,5,83.70
+F01087,Agriculture & Food,North America,32547,643,5,83.75
+F00727,Transportation,North America,32406,644,5,83.80
+F00447,Power & Utilities,North America,32268,645,5,83.85
+F00760,Transportation,Europe,32180,646,5,83.90
+F00891,Construction,Asia-Pacific,32025,647,5,83.95
+F00509,Mining,North America,32012,648,5,83.99
+F00230,Manufacturing,Latin America,31974,649,5,84.04
+F00146,Manufacturing,Asia-Pacific,31972,650,5,84.09
+F00897,Construction,Asia-Pacific,31883,651,5,84.14
+F00460,Power & Utilities,Europe,31799,652,5,84.19
+F00768,Transportation,North America,31753,653,5,84.23
+F00599,Transportation,Asia-Pacific,31736,654,5,84.28
+F00122,Manufacturing,Latin America,31714,655,5,84.33
+F01159,Waste Management,Europe,31496,656,5,84.38
+F00996,Agriculture & Food,Europe,31349,657,5,84.42
+F00613,Transportation,Europe,31247,658,5,84.47
+F00006,Manufacturing,Latin America,31245,659,5,84.52
+F01111,Waste Management,Asia-Pacific,31225,660,5,84.56
+F00154,Manufacturing,Europe,31135,661,5,84.61
+F00755,Transportation,Europe,31107,662,5,84.66
+F00181,Manufacturing,North America,31070,663,5,84.70
+F00600,Transportation,Europe,31066,664,5,84.75
+F00767,Transportation,Asia-Pacific,31051,665,5,84.80
+F00916,Construction,Europe,31000,666,5,84.84
+F00142,Manufacturing,Asia-Pacific,30963,667,5,84.89
+F00007,Manufacturing,Europe,30908,668,5,84.94
+F00103,Manufacturing,North America,30750,669,5,84.98
+F00184,Manufacturing,Europe,30691,670,5,85.03
+F00004,Manufacturing,Africa,30675,671,5,85.07
+F00665,Transportation,North America,30645,672,5,85.12
+F00798,Construction,North America,30613,673,5,85.17
+F00699,Transportation,Europe,30557,674,5,85.21
+F00794,Construction,Asia-Pacific,30518,675,5,85.26
+F00258,Manufacturing,North America,30505,676,5,85.30
+F01062,Agriculture & Food,Middle East,30490,677,5,85.35
+F00315,Manufacturing,Latin America,30459,678,5,85.39
+F00899,Construction,Asia-Pacific,30446,679,5,85.44
+F00560,Mining,Latin America,30431,680,5,85.49
+F00312,Manufacturing,North America,30392,681,5,85.53
+F00064,Manufacturing,Asia-Pacific,30317,682,5,85.58
+F00003,Manufacturing,Middle East,30298,683,5,85.62
+F00713,Transportation,North America,30293,684,5,85.67
+F01096,Waste Management,Latin America,30253,685,5,85.71
+F00202,Manufacturing,Asia-Pacific,30101,686,5,85.76
+F00178,Manufacturing,Middle East,30069,687,5,85.80
+F00201,Manufacturing,Asia-Pacific,29951,688,5,85.85
+F01131,Waste Management,Asia-Pacific,29889,689,5,85.89
+F00961,Agriculture & Food,Middle East,29709,690,5,85.94
+F00380,Manufacturing,Middle East,29676,691,5,85.98
+F00442,Power & Utilities,Asia-Pacific,29641,692,5,86.03
+F01107,Waste Management,North America,29632,693,5,86.07
+F00438,Power & Utilities,Europe,29600,694,5,86.12
+F01148,Waste Management,North America,29589,695,5,86.16
+F01043,Agriculture & Food,Asia-Pacific,29556,696,5,86.20
+F00783,Construction,Middle East,29461,697,5,86.25
+F00048,Manufacturing,Middle East,29341,698,5,86.29
+F00203,Manufacturing,Europe,29316,699,5,86.34
+F00764,Transportation,Europe,29135,700,5,86.38
+F00110,Manufacturing,Latin America,29101,701,6,86.42
+F00983,Agriculture & Food,Latin America,29042,702,6,86.47
+F00236,Manufacturing,Latin America,28986,703,6,86.51
+F00141,Manufacturing,Africa,28979,704,6,86.55
+F00881,Construction,Europe,28946,705,6,86.60
+F00327,Manufacturing,Asia-Pacific,28854,706,6,86.64
+F00676,Transportation,Europe,28850,707,6,86.68
+F00919,Construction,Asia-Pacific,28798,708,6,86.73
+F00717,Transportation,Europe,28756,709,6,86.77
+F01135,Waste Management,Middle East,28706,710,6,86.81
+F00360,Manufacturing,Europe,28640,711,6,86.86
+F00958,Agriculture & Food,Africa,28575,712,6,86.90
+F01065,Agriculture & Food,Europe,28550,713,6,86.94
+F00011,Manufacturing,Asia-Pacific,28549,714,6,86.99
+F00669,Transportation,Europe,28492,715,6,87.03
+F00906,Construction,Europe,28449,716,6,87.07
+F00775,Transportation,Middle East,28369,717,6,87.11
+F00545,Mining,Europe,28340,718,6,87.16
+F00986,Agriculture & Food,Middle East,28268,719,6,87.20
+F00131,Manufacturing,Africa,28249,720,6,87.24
+F00709,Transportation,North America,28245,721,6,87.28
+F00960,Agriculture & Food,Europe,28224,722,6,87.32
+F00183,Manufacturing,Europe,28220,723,6,87.37
+F00190,Manufacturing,Asia-Pacific,28098,724,6,87.41
+F00425,Power & Utilities,Europe,28049,725,6,87.45
+F00017,Manufacturing,Asia-Pacific,27996,726,6,87.49
+F00752,Transportation,Asia-Pacific,27896,727,6,87.54
+F00042,Manufacturing,Europe,27889,728,6,87.58
+F01031,Agriculture & Food,Asia-Pacific,27815,729,6,87.62
+F00157,Manufacturing,Asia-Pacific,27769,730,6,87.66
+F00950,Agriculture & Food,North America,27673,731,6,87.70
+F01146,Waste Management,Asia-Pacific,27641,732,6,87.74
+F00029,Manufacturing,Latin America,27594,733,6,87.78
+F00904,Construction,North America,27586,734,6,87.83
+F00123,Manufacturing,North America,27538,735,6,87.87
+F00342,Manufacturing,North America,27515,736,6,87.91
+F00152,Manufacturing,Africa,27491,737,6,87.95
+F00648,Transportation,Asia-Pacific,27478,738,6,87.99
+F00943,Agriculture & Food,Asia-Pacific,27401,739,6,88.03
+F01015,Agriculture & Food,Asia-Pacific,27361,740,6,88.07
+F01157,Waste Management,North America,27307,741,6,88.11
+F00290,Manufacturing,North America,27304,742,6,88.16
+F00963,Agriculture & Food,Europe,27297,743,6,88.20
+F00379,Manufacturing,Europe,27286,744,6,88.24
+F00711,Transportation,Asia-Pacific,27273,745,6,88.28
+F00793,Construction,Europe,27216,746,6,88.32
+F00688,Transportation,North America,27075,747,6,88.36
+F00951,Agriculture & Food,Latin America,27024,748,6,88.40
+F01054,Agriculture & Food,North America,26998,749,6,88.44
+F00627,Transportation,Europe,26987,750,6,88.48
+F00804,Construction,Asia-Pacific,26957,751,6,88.52
+F00263,Manufacturing,Asia-Pacific,26946,752,6,88.56
+F00664,Transportation,Asia-Pacific,26903,753,6,88.60
+F00754,Transportation,North America,26859,754,6,88.64
+F00161,Manufacturing,Latin America,26725,755,6,88.68
+F00826,Construction,North America,26724,756,6,88.72
+F00702,Transportation,Europe,26694,757,6,88.76
+F00097,Manufacturing,North America,26686,758,6,88.80
+F00683,Transportation,Asia-Pacific,26525,759,6,88.84
+F00624,Transportation,Asia-Pacific,26514,760,6,88.88
+F00913,Construction,Asia-Pacific,26503,761,6,88.92
+F00376,Manufacturing,Asia-Pacific,26331,762,6,88.96
+F00596,Transportation,Europe,26238,763,6,89.00
+F00548,Mining,Asia-Pacific,26189,764,6,89.04
+F00886,Construction,Asia-Pacific,26008,765,6,89.08
+F00607,Transportation,Middle East,25871,766,6,89.12
+F00691,Transportation,Europe,25867,767,6,89.16
+F00356,Manufacturing,Asia-Pacific,25792,768,6,89.20
+F00208,Manufacturing,Europe,25722,769,6,89.23
+F01142,Waste Management,Africa,25603,770,6,89.27
+F00039,Manufacturing,Asia-Pacific,25577,771,6,89.31
+F00769,Transportation,Europe,25549,772,6,89.35
+F00294,Manufacturing,Asia-Pacific,25499,773,6,89.39
+F00772,Transportation,Europe,25447,774,6,89.43
+F01060,Agriculture & Food,Africa,25240,775,6,89.46
+F00241,Manufacturing,Middle East,25223,776,6,89.50
+F00310,Manufacturing,Middle East,25181,777,6,89.54
+F00293,Manufacturing,Europe,25139,778,6,89.58
+F00188,Manufacturing,Europe,25121,779,6,89.61
+F00954,Agriculture & Food,Latin America,25104,780,6,89.65
+F00734,Transportation,Europe,25096,781,6,89.69
+F00807,Construction,North America,25050,782,6,89.73
+F00880,Construction,Asia-Pacific,25035,783,6,89.76
+F00831,Construction,Middle East,25016,784,6,89.80
+F00538,Mining,Europe,24946,785,6,89.84
+F00322,Manufacturing,Middle East,24903,786,6,89.88
+F00282,Manufacturing,Asia-Pacific,24859,787,6,89.91
+F00749,Transportation,Middle East,24849,788,6,89.95
+F01121,Waste Management,Asia-Pacific,24807,789,6,89.99
+F00619,Transportation,Asia-Pacific,24804,790,6,90.03
+F00562,Mining,Asia-Pacific,24752,791,6,90.06
+F00143,Manufacturing,Latin America,24695,792,6,90.10
+F01004,Agriculture & Food,North America,24479,793,6,90.14
+F01034,Agriculture & Food,Asia-Pacific,24407,794,6,90.17
+F00337,Manufacturing,North America,24381,795,6,90.21
+F00276,Manufacturing,Europe,24194,796,6,90.25
+F01036,Agriculture & Food,Middle East,24166,797,6,90.28
+F00189,Manufacturing,Asia-Pacific,24123,798,6,90.32
+F01076,Agriculture & Food,Europe,24043,799,6,90.36
+F00781,Construction,Asia-Pacific,24016,800,6,90.39
+F00646,Transportation,Middle East,24000,801,6,90.43
+F00984,Agriculture & Food,Asia-Pacific,23956,802,6,90.46
+F01147,Waste Management,North America,23938,803,6,90.50
+F00809,Construction,Europe,23921,804,6,90.53
+F01040,Agriculture & Food,North America,23762,805,6,90.57
+F00998,Agriculture & Food,Asia-Pacific,23585,806,6,90.61
+F00703,Transportation,Asia-Pacific,23567,807,6,90.64
+F00107,Manufacturing,Europe,23554,808,6,90.68
+F00603,Transportation,Europe,23550,809,6,90.71
+F00934,Agriculture & Food,Africa,23478,810,6,90.75
+F00697,Transportation,North America,23467,811,6,90.78
+F00917,Construction,Europe,23463,812,6,90.82
+F00081,Manufacturing,North America,23365,813,6,90.85
+F00693,Transportation,North America,23274,814,6,90.89
+F00586,Transportation,Europe,23234,815,6,90.92
+F00778,Transportation,Latin America,23092,816,6,90.96
+F00314,Manufacturing,Latin America,23039,817,6,90.99
+F01375,Commercial Services,North America,23023,818,6,91.03
+F00564,Mining,Asia-Pacific,23018,819,6,91.06
+F00098,Manufacturing,Asia-Pacific,23003,820,6,91.10
+F00902,Construction,North America,22910,821,6,91.13
+F01090,Agriculture & Food,Europe,22859,822,6,91.16
+F00974,Agriculture & Food,North America,22787,823,6,91.20
+F00800,Construction,Europe,22734,824,6,91.23
+F00895,Construction,North America,22715,825,6,91.27
+F00832,Construction,Europe,22709,826,6,91.30
+F01162,Waste Management,Africa,22698,827,6,91.33
+F00096,Manufacturing,Asia-Pacific,22697,828,6,91.37
+F00875,Construction,Asia-Pacific,22687,829,6,91.40
+F00170,Manufacturing,North America,22649,830,6,91.44
+F00926,Construction,Asia-Pacific,22609,831,6,91.47
+F00198,Manufacturing,Africa,22595,832,6,91.50
+F00706,Transportation,Europe,22526,833,6,91.54
+F01113,Waste Management,Asia-Pacific,22413,834,6,91.57
+F00207,Manufacturing,Asia-Pacific,22383,835,6,91.60
+F01010,Agriculture & Food,Middle East,22325,836,6,91.64
+F00843,Construction,Asia-Pacific,22270,837,6,91.67
+F00135,Manufacturing,Asia-Pacific,22133,838,6,91.71
+F00590,Transportation,North America,22064,839,6,91.74
+F00028,Manufacturing,Asia-Pacific,21976,840,6,91.77
+F00002,Manufacturing,Asia-Pacific,21911,841,7,91.80
+F00363,Manufacturing,Europe,21900,842,7,91.84
+F01170,Waste Management,Europe,21833,843,7,91.87
+F01008,Agriculture & Food,Europe,21789,844,7,91.90
+F00992,Agriculture & Food,North America,21700,845,7,91.93
+F00700,Transportation,Europe,21683,846,7,91.97
+F00065,Manufacturing,North America,21648,847,7,92.00
+F00663,Transportation,Latin America,21639,848,7,92.03
+F00641,Transportation,Latin America,21628,849,7,92.06
+F00267,Manufacturing,Africa,21606,850,7,92.10
+F00679,Transportation,Middle East,21570,851,7,92.13
+F00957,Agriculture & Food,North America,21567,852,7,92.16
+F00887,Construction,Asia-Pacific,21425,853,7,92.19
+F00561,Mining,Africa,21323,854,7,92.23
+F01136,Waste Management,Europe,21294,855,7,92.26
+F01014,Agriculture & Food,Africa,21195,856,7,92.29
+F00795,Construction,Asia-Pacific,21138,857,7,92.32
+F00308,Manufacturing,Latin America,21044,858,7,92.35
+F00347,Manufacturing,Asia-Pacific,21029,859,7,92.38
+F00771,Transportation,Latin America,20979,860,7,92.42
+F00966,Agriculture & Food,Europe,20969,861,7,92.45
+F00522,Mining,Middle East,20824,862,7,92.48
+F00955,Agriculture & Food,Asia-Pacific,20776,863,7,92.51
+F01104,Waste Management,Asia-Pacific,20582,864,7,92.54
+F00645,Transportation,North America,20573,865,7,92.57
+F01035,Agriculture & Food,Europe,20451,866,7,92.60
+F00969,Agriculture & Food,Asia-Pacific,20441,867,7,92.63
+F00061,Manufacturing,Middle East,20431,868,7,92.66
+F00777,Transportation,Asia-Pacific,20422,869,7,92.69
+F01022,Agriculture & Food,North America,20378,870,7,92.72
+F00010,Manufacturing,Europe,20333,871,7,92.76
+F00182,Manufacturing,North America,20236,872,7,92.79
+F00877,Construction,Asia-Pacific,20162,873,7,92.82
+F00710,Transportation,Asia-Pacific,20141,874,7,92.85
+F01169,Waste Management,Europe,20137,875,7,92.88
+F00941,Agriculture & Food,Europe,20004,876,7,92.91
+F00870,Construction,Middle East,19985,877,7,92.94
+F00707,Transportation,Africa,19898,878,7,92.97
+F00938,Agriculture & Food,Latin America,19814,879,7,93.00
+F01097,Waste Management,Asia-Pacific,19687,880,7,93.03
+F01099,Waste Management,Europe,19687,881,7,93.05
+F01016,Agriculture & Food,Africa,19636,882,7,93.08
+F00864,Construction,Asia-Pacific,19631,883,7,93.11
+F00849,Construction,Asia-Pacific,19609,884,7,93.14
+F00814,Construction,Europe,19571,885,7,93.17
+F00349,Manufacturing,Europe,19450,886,7,93.20
+F01084,Agriculture & Food,North America,19428,887,7,93.23
+F01011,Agriculture & Food,Latin America,19403,888,7,93.26
+F00987,Agriculture & Food,Europe,19350,889,7,93.29
+F00985,Agriculture & Food,North America,19268,890,7,93.32
+F00171,Manufacturing,North America,19198,891,7,93.35
+F01334,Commercial Services,Latin America,19191,892,7,93.38
+F00839,Construction,Asia-Pacific,19078,893,7,93.40
+F00543,Mining,Europe,19058,894,7,93.43
+F00970,Agriculture & Food,Europe,19005,895,7,93.46
+F00853,Construction,Europe,18986,896,7,93.49
+F00914,Construction,Europe,18950,897,7,93.52
+F00249,Manufacturing,Europe,18935,898,7,93.55
+F01149,Waste Management,Asia-Pacific,18930,899,7,93.57
+F00901,Construction,North America,18851,900,7,93.60
+F00060,Manufacturing,North America,18832,901,7,93.63
+F00279,Manufacturing,North America,18830,902,7,93.66
+F00962,Agriculture & Food,Asia-Pacific,18826,903,7,93.69
+F00796,Construction,Europe,18806,904,7,93.72
+F00346,Manufacturing,North America,18802,905,7,93.74
+F00038,Manufacturing,North America,18695,906,7,93.77
+F00968,Agriculture & Food,North America,18683,907,7,93.80
+F00635,Transportation,Europe,18653,908,7,93.83
+F01160,Waste Management,Europe,18483,909,7,93.86
+F01059,Agriculture & Food,Europe,18465,910,7,93.88
+F01130,Waste Management,Asia-Pacific,18430,911,7,93.91
+F00021,Manufacturing,Latin America,18340,912,7,93.94
+F00808,Construction,Europe,18292,913,7,93.97
+F01125,Waste Management,Africa,18269,914,7,93.99
+F01095,Waste Management,North America,18230,915,7,94.02
+F00324,Manufacturing,Europe,18063,916,7,94.05
+F00151,Manufacturing,Latin America,17998,917,7,94.08
+F01347,Commercial Services,North America,17992,918,7,94.10
+F00927,Construction,Asia-Pacific,17932,919,7,94.13
+F00744,Transportation,Europe,17892,920,7,94.16
+F00833,Construction,Latin America,17816,921,7,94.18
+F00470,Power & Utilities,Latin America,17805,922,7,94.21
+F00305,Manufacturing,Middle East,17766,923,7,94.24
+F01088,Agriculture & Food,North America,17746,924,7,94.26
+F00242,Manufacturing,Latin America,17715,925,7,94.29
+F01038,Agriculture & Food,Asia-Pacific,17650,926,7,94.32
+F00925,Construction,Europe,17522,927,7,94.34
+F01388,Commercial Services,Asia-Pacific,17416,928,7,94.37
+F00639,Transportation,Europe,17356,929,7,94.39
+F00993,Agriculture & Food,Latin America,17351,930,7,94.42
+F01037,Agriculture & Food,North America,17345,931,7,94.45
+F00949,Agriculture & Food,North America,17302,932,7,94.47
+F00677,Transportation,Africa,17257,933,7,94.50
+F00354,Manufacturing,Africa,17100,934,7,94.52
+F00145,Manufacturing,Asia-Pacific,17067,935,7,94.55
+F00598,Transportation,Asia-Pacific,16954,936,7,94.57
+F00964,Agriculture & Food,North America,16946,937,7,94.60
+F00918,Construction,Europe,16942,938,7,94.63
+F00819,Construction,Europe,16752,939,7,94.65
+F00301,Manufacturing,Africa,16723,940,7,94.68
+F01332,Commercial Services,Asia-Pacific,16696,941,7,94.70
+F00708,Transportation,Africa,16625,942,7,94.73
+F00940,Agriculture & Food,Asia-Pacific,16609,943,7,94.75
+F00956,Agriculture & Food,Europe,16600,944,7,94.78
+F01103,Waste Management,Europe,16566,945,7,94.80
+F01049,Agriculture & Food,Europe,16506,946,7,94.83
+F00716,Transportation,Africa,16443,947,7,94.85
+F01112,Waste Management,North America,16346,948,7,94.87
+F00626,Transportation,Africa,16325,949,7,94.90
+F01078,Agriculture & Food,North America,16310,950,7,94.92
+F01026,Agriculture & Food,Europe,16279,951,7,94.95
+F00102,Manufacturing,Asia-Pacific,16243,952,7,94.97
+F00400,Power & Utilities,North America,16194,953,7,95.00
+F00690,Transportation,Asia-Pacific,16138,954,7,95.02
+F01122,Waste Management,North America,16129,955,7,95.04
+F00878,Construction,North America,16111,956,7,95.07
+F01171,Waste Management,Europe,16067,957,7,95.09
+F01072,Agriculture & Food,Asia-Pacific,16061,958,7,95.12
+F00340,Manufacturing,Middle East,16043,959,7,95.14
+F00972,Agriculture & Food,Latin America,16017,960,7,95.17
+F00841,Construction,Latin America,15990,961,7,95.19
+F01079,Agriculture & Food,North America,15952,962,7,95.21
+F00850,Construction,Latin America,15940,963,7,95.24
+F00763,Transportation,Europe,15882,964,7,95.26
+F01028,Agriculture & Food,Europe,15866,965,7,95.28
+F00228,Manufacturing,Europe,15777,966,7,95.31
+F01063,Agriculture & Food,North America,15684,967,7,95.33
+F01068,Agriculture & Food,Africa,15631,968,7,95.36
+F00714,Transportation,Latin America,15594,969,7,95.38
+F01085,Agriculture & Food,North America,15561,970,7,95.40
+F00828,Construction,North America,15515,971,7,95.43
+F00903,Construction,Africa,15514,972,7,95.45
+F01178,Waste Management,North America,15505,973,7,95.47
+F00882,Construction,North America,15472,974,7,95.49
+F00696,Transportation,Asia-Pacific,15467,975,7,95.52
+F00695,Transportation,Latin America,15403,976,7,95.54
+F01106,Waste Management,Europe,15368,977,7,95.56
+F00211,Manufacturing,Africa,15236,978,7,95.59
+F01021,Agriculture & Food,Asia-Pacific,15208,979,7,95.61
+F00681,Transportation,Africa,15151,980,7,95.63
+F00848,Construction,Asia-Pacific,15113,981,8,95.66
+F00162,Manufacturing,Latin America,15091,982,8,95.68
+F00908,Construction,Asia-Pacific,15091,983,8,95.70
+F01100,Waste Management,Middle East,15054,984,8,95.72
+F00873,Construction,Africa,15051,985,8,95.75
+F00997,Agriculture & Food,Middle East,14992,986,8,95.77
+F00948,Agriculture & Food,Asia-Pacific,14859,987,8,95.79
+F00776,Transportation,Asia-Pacific,14771,988,8,95.81
+F00644,Transportation,Europe,14733,989,8,95.83
+F00979,Agriculture & Food,Asia-Pacific,14725,990,8,95.86
+F00112,Manufacturing,Latin America,14686,991,8,95.88
+F00266,Manufacturing,Asia-Pacific,14653,992,8,95.90
+F01110,Waste Management,Europe,14531,993,8,95.92
+F00802,Construction,Asia-Pacific,14468,994,8,95.94
+F01067,Agriculture & Food,Africa,14465,995,8,95.97
+F00169,Manufacturing,Africa,14453,996,8,95.99
+F00812,Construction,Asia-Pacific,14369,997,8,96.01
+F00982,Agriculture & Food,North America,14292,998,8,96.03
+F01056,Agriculture & Food,Asia-Pacific,14271,999,8,96.05
+F00825,Construction,Asia-Pacific,14166,1000,8,96.07
+F01172,Waste Management,Asia-Pacific,14124,1001,8,96.09
+F00256,Manufacturing,Africa,14116,1002,8,96.12
+F00642,Transportation,Latin America,13916,1003,8,96.14
+F01166,Waste Management,Europe,13844,1004,8,96.16
+F00416,Power & Utilities,Europe,13804,1005,8,96.18
+F01150,Waste Management,Asia-Pacific,13777,1006,8,96.20
+F00933,Agriculture & Food,Asia-Pacific,13699,1007,8,96.22
+F00172,Manufacturing,North America,13687,1008,8,96.24
+F00119,Manufacturing,Asia-Pacific,13670,1009,8,96.26
+F00542,Mining,Africa,13644,1010,8,96.28
+F00838,Construction,Asia-Pacific,13643,1011,8,96.30
+F00981,Agriculture & Food,Europe,13614,1012,8,96.32
+F01108,Waste Management,Latin America,13611,1013,8,96.34
+F00787,Construction,North America,13490,1014,8,96.36
+F01168,Waste Management,Europe,13489,1015,8,96.38
+F00874,Construction,Europe,13477,1016,8,96.40
+F01151,Waste Management,Asia-Pacific,13435,1017,8,96.42
+F00892,Construction,Africa,13362,1018,8,96.44
+F00790,Construction,North America,13361,1019,8,96.46
+F01167,Waste Management,Latin America,13353,1020,8,96.48
+F01052,Agriculture & Food,Africa,13317,1021,8,96.50
+F00304,Manufacturing,Africa,13279,1022,8,96.52
+F01139,Waste Management,Latin America,13252,1023,8,96.54
+F01333,Commercial Services,Asia-Pacific,13243,1024,8,96.56
+F00371,Manufacturing,Middle East,13170,1025,8,96.58
+F00930,Construction,Africa,13164,1026,8,96.60
+F00822,Construction,Asia-Pacific,13002,1027,8,96.62
+F00952,Agriculture & Food,Europe,12982,1028,8,96.64
+F00547,Mining,Europe,12942,1029,8,96.66
+F00738,Transportation,Asia-Pacific,12899,1030,8,96.68
+F00835,Construction,Asia-Pacific,12741,1031,8,96.70
+F00375,Manufacturing,Europe,12740,1032,8,96.72
+F00285,Manufacturing,Latin America,12737,1033,8,96.74
+F01057,Agriculture & Food,Latin America,12734,1034,8,96.76
+F00879,Construction,North America,12589,1035,8,96.78
+F00931,Agriculture & Food,Europe,12538,1036,8,96.79
+F01165,Waste Management,North America,12486,1037,8,96.81
+F00924,Construction,North America,12341,1038,8,96.83
+F01137,Waste Management,Europe,12322,1039,8,96.85
+F00753,Transportation,Latin America,12320,1040,8,96.87
+F00905,Construction,Asia-Pacific,12302,1041,8,96.89
+F01163,Waste Management,Europe,12221,1042,8,96.90
+F00440,Power & Utilities,Africa,12195,1043,8,96.92
+F00067,Manufacturing,Africa,12192,1044,8,96.94
+F00900,Construction,Asia-Pacific,12188,1045,8,96.96
+F00810,Construction,Africa,12140,1046,8,96.98
+F00361,Manufacturing,North America,12102,1047,8,97.00
+F01156,Waste Management,Latin America,12067,1048,8,97.01
+F00840,Construction,North America,11893,1049,8,97.03
+F00044,Manufacturing,North America,11878,1050,8,97.05
+F01144,Waste Management,Africa,11767,1051,8,97.07
+F01134,Waste Management,Asia-Pacific,11674,1052,8,97.09
+F00806,Construction,Europe,11651,1053,8,97.10
+F00995,Agriculture & Food,Latin America,11594,1054,8,97.12
+F01243,Commercial Services,Latin America,11553,1055,8,97.14
+F00647,Transportation,Africa,11531,1056,8,97.15
+F01007,Agriculture & Food,Middle East,11492,1057,8,97.17
+F00214,Manufacturing,Asia-Pacific,11476,1058,8,97.19
+F01152,Waste Management,Africa,11465,1059,8,97.21
+F00215,Manufacturing,North America,11450,1060,8,97.22
+F00935,Agriculture & Food,Asia-Pacific,11350,1061,8,97.24
+F00191,Manufacturing,Europe,11346,1062,8,97.26
+F00101,Manufacturing,Middle East,11319,1063,8,97.27
+F00687,Transportation,Latin America,11293,1064,8,97.29
+F00821,Construction,Asia-Pacific,11290,1065,8,97.31
+F00988,Agriculture & Food,North America,11275,1066,8,97.33
+F00862,Construction,North America,11215,1067,8,97.34
+F00155,Manufacturing,Latin America,11189,1068,8,97.36
+F01161,Waste Management,North America,11095,1069,8,97.38
+F00059,Manufacturing,Asia-Pacific,11081,1070,8,97.39
+F00861,Construction,Latin America,11070,1071,8,97.41
+F00209,Manufacturing,Asia-Pacific,11063,1072,8,97.43
+F00844,Construction,Middle East,11052,1073,8,97.44
+F00630,Transportation,North America,11048,1074,8,97.46
+F01185,Commercial Services,Asia-Pacific,11012,1075,8,97.47
+F00820,Construction,Europe,11009,1076,8,97.49
+F01302,Commercial Services,Asia-Pacific,11006,1077,8,97.51
+F00837,Construction,North America,10994,1078,8,97.52
+F01117,Waste Management,Asia-Pacific,10942,1079,8,97.54
+F00852,Construction,Europe,10894,1080,8,97.56
+F00352,Manufacturing,Asia-Pacific,10871,1081,8,97.57
+F00784,Construction,Europe,10826,1082,8,97.59
+F00801,Construction,North America,10798,1083,8,97.61
+F00297,Manufacturing,North America,10690,1084,8,97.62
+F00860,Construction,North America,10615,1085,8,97.64
+F00885,Construction,Latin America,10525,1086,8,97.65
+F01373,Commercial Services,Europe,10478,1087,8,97.67
+F00824,Construction,Asia-Pacific,10465,1088,8,97.69
+F01173,Waste Management,Europe,10461,1089,8,97.70
+F00114,Manufacturing,Asia-Pacific,10432,1090,8,97.72
+F01042,Agriculture & Food,Europe,10406,1091,8,97.73
+F00495,Mining,Latin America,10348,1092,8,97.75
+F01250,Commercial Services,Europe,10310,1093,8,97.76
+F01362,Commercial Services,North America,10240,1094,8,97.78
+F00910,Construction,Middle East,10213,1095,8,97.79
+F00920,Construction,Asia-Pacific,10192,1096,8,97.81
+F00834,Construction,Latin America,10086,1097,8,97.82
+F00937,Agriculture & Food,Europe,10000,1098,8,97.84
+F01210,Commercial Services,Asia-Pacific,9976,1099,8,97.85
+F00120,Manufacturing,Asia-Pacific,9890,1100,8,97.87
+F01206,Commercial Services,Asia-Pacific,9874,1101,8,97.88
+F00923,Construction,Africa,9841,1102,8,97.90
+F00866,Construction,Europe,9833,1103,8,97.91
+F00792,Construction,North America,9830,1104,8,97.93
+F01164,Waste Management,Europe,9731,1105,8,97.94
+F01061,Agriculture & Food,Europe,9520,1106,8,97.96
+F00818,Construction,Asia-Pacific,9471,1107,8,97.97
+F00797,Construction,North America,9464,1108,8,97.99
+F01129,Waste Management,Asia-Pacific,9405,1109,8,98.00
+F01397,Commercial Services,Asia-Pacific,9292,1110,8,98.01
+F00894,Construction,Asia-Pacific,9258,1111,8,98.03
+F01352,Commercial Services,Europe,9214,1112,8,98.04
+F01064,Agriculture & Food,North America,9108,1113,8,98.05
+F00257,Manufacturing,Asia-Pacific,9064,1114,8,98.07
+F01101,Waste Management,Europe,8999,1115,8,98.08
+F01025,Agriculture & Food,Asia-Pacific,8947,1116,8,98.10
+F00855,Construction,Europe,8944,1117,8,98.11
+F00973,Agriculture & Food,Middle East,8935,1118,8,98.12
+F00817,Construction,North America,8875,1119,8,98.14
+F00815,Construction,Asia-Pacific,8874,1120,8,98.15
+F01105,Waste Management,North America,8799,1121,9,98.16
+F00978,Agriculture & Food,Middle East,8672,1122,9,98.17
+F00872,Construction,Latin America,8665,1123,9,98.19
+F01145,Waste Management,Africa,8634,1124,9,98.20
+F00805,Construction,Europe,8602,1125,9,98.21
+F00889,Construction,Asia-Pacific,8581,1126,9,98.23
+F01232,Commercial Services,Asia-Pacific,8579,1127,9,98.24
+F00922,Construction,Middle East,8543,1128,9,98.25
+F00911,Construction,North America,8523,1129,9,98.27
+F00698,Transportation,Latin America,8479,1130,9,98.28
+F01376,Commercial Services,North America,8399,1131,9,98.29
+F00750,Transportation,Europe,8395,1132,9,98.30
+F00858,Construction,Europe,8384,1133,9,98.32
+F01127,Waste Management,Asia-Pacific,8365,1134,9,98.33
+F00890,Construction,Asia-Pacific,8280,1135,9,98.34
+F01047,Agriculture & Food,Africa,8215,1136,9,98.35
+F01124,Waste Management,Asia-Pacific,8171,1137,9,98.37
+F00606,Transportation,Africa,8168,1138,9,98.38
+F01217,Commercial Services,Africa,8164,1139,9,98.39
+F01361,Commercial Services,Middle East,8131,1140,9,98.40
+F00883,Construction,Africa,8112,1141,9,98.41
+F00378,Manufacturing,North America,8101,1142,9,98.43
+F00685,Transportation,Asia-Pacific,8069,1143,9,98.44
+F00041,Manufacturing,Africa,8037,1144,9,98.45
+F00594,Transportation,Africa,8034,1145,9,98.46
+F01372,Commercial Services,Asia-Pacific,8002,1146,9,98.47
+F00898,Construction,Europe,7937,1147,9,98.49
+F01229,Commercial Services,Europe,7928,1148,9,98.50
+F00253,Manufacturing,Africa,7896,1149,9,98.51
+F01029,Agriculture & Food,Latin America,7877,1150,9,98.52
+F00975,Agriculture & Food,Africa,7843,1151,9,98.53
+F01387,Commercial Services,Asia-Pacific,7748,1152,9,98.55
+F01300,Commercial Services,Africa,7699,1153,9,98.56
+F00991,Agriculture & Food,Latin America,7634,1154,9,98.57
+F01323,Commercial Services,North America,7594,1155,9,98.58
+F00990,Agriculture & Food,North America,7578,1156,9,98.59
+F00803,Construction,Europe,7519,1157,9,98.60
+F01399,Commercial Services,Asia-Pacific,7504,1158,9,98.61
+F01307,Commercial Services,Asia-Pacific,7444,1159,9,98.62
+F00671,Transportation,Europe,7325,1160,9,98.64
+F01020,Agriculture & Food,Europe,7304,1161,9,98.65
+F01128,Waste Management,North America,7297,1162,9,98.66
+F01214,Commercial Services,North America,7283,1163,9,98.67
+F00999,Agriculture & Food,Latin America,7196,1164,9,98.68
+F01081,Agriculture & Food,North America,7080,1165,9,98.69
+F01230,Commercial Services,North America,7077,1166,9,98.70
+F01119,Waste Management,Europe,6990,1167,9,98.71
+F00867,Construction,Middle East,6907,1168,9,98.72
+F01384,Commercial Services,Asia-Pacific,6842,1169,9,98.73
+F00845,Construction,North America,6832,1170,9,98.74
+F01114,Waste Management,Europe,6797,1171,9,98.75
+F00274,Manufacturing,Asia-Pacific,6785,1172,9,98.76
+F00876,Construction,North America,6771,1173,9,98.77
+F01261,Commercial Services,Asia-Pacific,6682,1174,9,98.78
+F00813,Construction,Asia-Pacific,6612,1175,9,98.79
+F00737,Transportation,Latin America,6591,1176,9,98.80
+F01203,Commercial Services,Europe,6520,1177,9,98.81
+F00335,Manufacturing,Latin America,6507,1178,9,98.82
+F01013,Agriculture & Food,Europe,6495,1179,9,98.83
+F01359,Commercial Services,Asia-Pacific,6493,1180,9,98.84
+F01179,Waste Management,Asia-Pacific,6484,1181,9,98.85
+F01186,Commercial Services,Asia-Pacific,6477,1182,9,98.86
+F01239,Commercial Services,Europe,6464,1183,9,98.87
+F01154,Waste Management,Latin America,6222,1184,9,98.88
+F01324,Commercial Services,Middle East,6192,1185,9,98.89
+F00865,Construction,Europe,6188,1186,9,98.90
+F00965,Agriculture & Food,Latin America,6150,1187,9,98.91
+F01115,Waste Management,North America,6132,1188,9,98.92
+F01249,Commercial Services,Asia-Pacific,6128,1189,9,98.93
+F01058,Agriculture & Food,Europe,6053,1190,9,98.93
+F01223,Commercial Services,Asia-Pacific,5998,1191,9,98.94
+F01322,Commercial Services,North America,5997,1192,9,98.95
+F01018,Agriculture & Food,Europe,5991,1193,9,98.96
+F01066,Agriculture & Food,Africa,5989,1194,9,98.97
+F01193,Commercial Services,Africa,5987,1195,9,98.98
+F01276,Commercial Services,North America,5974,1196,9,98.99
+F01118,Waste Management,Europe,5947,1197,9,99.00
+F01253,Commercial Services,Latin America,5941,1198,9,99.01
+F01317,Commercial Services,Asia-Pacific,5905,1199,9,99.02
+F01181,Commercial Services,Asia-Pacific,5880,1200,9,99.02
+F01277,Commercial Services,North America,5852,1201,9,99.03
+F01357,Commercial Services,Europe,5796,1202,9,99.04
+F01091,Waste Management,North America,5761,1203,9,99.05
+F00829,Construction,Europe,5740,1204,9,99.06
+F01126,Waste Management,Europe,5739,1205,9,99.07
+F01233,Commercial Services,Asia-Pacific,5719,1206,9,99.08
+F01200,Commercial Services,Asia-Pacific,5691,1207,9,99.08
+F01182,Commercial Services,North America,5658,1208,9,99.09
+F01348,Commercial Services,North America,5642,1209,9,99.10
+F00827,Construction,Europe,5553,1210,9,99.11
+F00086,Manufacturing,Latin America,5509,1211,9,99.12
+F00915,Construction,Latin America,5441,1212,9,99.13
+F00859,Construction,Europe,5435,1213,9,99.13
+F00351,Manufacturing,Latin America,5405,1214,9,99.14
+F01280,Commercial Services,Europe,5402,1215,9,99.15
+F01215,Commercial Services,North America,5357,1216,9,99.16
+F01198,Commercial Services,Asia-Pacific,5343,1217,9,99.17
+F01285,Commercial Services,Middle East,5336,1218,9,99.17
+F01219,Commercial Services,Asia-Pacific,5319,1219,9,99.18
+F01315,Commercial Services,Asia-Pacific,5307,1220,9,99.19
+F01287,Commercial Services,Middle East,5276,1221,9,99.20
+F01301,Commercial Services,North America,5264,1222,9,99.21
+F01245,Commercial Services,Middle East,5259,1223,9,99.21
+F01133,Waste Management,Europe,5254,1224,9,99.22
+F01318,Commercial Services,Asia-Pacific,5213,1225,9,99.23
+F00811,Construction,Europe,5164,1226,9,99.24
+F01336,Commercial Services,Asia-Pacific,5159,1227,9,99.25
+F01199,Commercial Services,Asia-Pacific,5148,1228,9,99.25
+F01310,Commercial Services,Latin America,5128,1229,9,99.26
+F01313,Commercial Services,Latin America,5082,1230,9,99.27
+F01205,Commercial Services,Asia-Pacific,5036,1231,9,99.28
+F01275,Commercial Services,Asia-Pacific,5017,1232,9,99.28
+F01326,Commercial Services,Asia-Pacific,5012,1233,9,99.29
+F01192,Commercial Services,Asia-Pacific,4986,1234,9,99.30
+F01244,Commercial Services,Middle East,4978,1235,9,99.31
+F01194,Commercial Services,Asia-Pacific,4901,1236,9,99.31
+F01379,Commercial Services,Europe,4872,1237,9,99.32
+F01303,Commercial Services,Europe,4844,1238,9,99.33
+F01238,Commercial Services,Middle East,4826,1239,9,99.34
+F00912,Construction,Europe,4786,1240,9,99.34
+F01283,Commercial Services,Asia-Pacific,4763,1241,9,99.35
+F01260,Commercial Services,Africa,4744,1242,9,99.36
+F00945,Agriculture & Food,Europe,4706,1243,9,99.36
+F01209,Commercial Services,Africa,4662,1244,9,99.37
+F01080,Agriculture & Food,Africa,4606,1245,9,99.38
+F01305,Commercial Services,Asia-Pacific,4597,1246,9,99.38
+F01327,Commercial Services,Europe,4564,1247,9,99.39
+F00921,Construction,Europe,4515,1248,9,99.40
+F01314,Commercial Services,North America,4515,1249,9,99.41
+F01374,Commercial Services,Europe,4450,1250,9,99.41
+F01236,Commercial Services,Latin America,4434,1251,9,99.42
+F01174,Waste Management,North America,4365,1252,9,99.43
+F01316,Commercial Services,Europe,4272,1253,9,99.43
+F01222,Commercial Services,Latin America,4245,1254,9,99.44
+F01335,Commercial Services,Asia-Pacific,4242,1255,9,99.44
+F01320,Commercial Services,North America,4172,1256,9,99.45
+F01351,Commercial Services,Africa,4165,1257,9,99.46
+F01216,Commercial Services,Middle East,4158,1258,9,99.46
+F01003,Agriculture & Food,Europe,4146,1259,9,99.47
+F01341,Commercial Services,Asia-Pacific,4117,1260,9,99.48
+F01383,Commercial Services,Latin America,4108,1261,10,99.48
+F01393,Commercial Services,Africa,4102,1262,10,99.49
+F01389,Commercial Services,Asia-Pacific,4098,1263,10,99.49
+F01345,Commercial Services,Asia-Pacific,4077,1264,10,99.50
+F01311,Commercial Services,Europe,4074,1265,10,99.51
+F01355,Commercial Services,North America,4019,1266,10,99.51
+F00946,Agriculture & Food,Europe,3963,1267,10,99.52
+F01246,Commercial Services,Europe,3963,1268,10,99.52
+F01123,Waste Management,North America,3917,1269,10,99.53
+F01278,Commercial Services,Asia-Pacific,3888,1270,10,99.54
+F01272,Commercial Services,North America,3883,1271,10,99.54
+F01273,Commercial Services,Asia-Pacific,3874,1272,10,99.55
+F01248,Commercial Services,Asia-Pacific,3867,1273,10,99.55
+F01279,Commercial Services,Europe,3838,1274,10,99.56
+F01251,Commercial Services,Latin America,3831,1275,10,99.56
+F01295,Commercial Services,Europe,3792,1276,10,99.57
+F01319,Commercial Services,Latin America,3756,1277,10,99.58
+F01364,Commercial Services,Asia-Pacific,3747,1278,10,99.58
+F01218,Commercial Services,Latin America,3745,1279,10,99.59
+F01349,Commercial Services,Asia-Pacific,3738,1280,10,99.59
+F01365,Commercial Services,Asia-Pacific,3719,1281,10,99.60
+F01225,Commercial Services,North America,3691,1282,10,99.60
+F00830,Construction,Asia-Pacific,3669,1283,10,99.61
+F01390,Commercial Services,Asia-Pacific,3657,1284,10,99.61
+F01274,Commercial Services,Asia-Pacific,3495,1285,10,99.62
+F01240,Commercial Services,Asia-Pacific,3453,1286,10,99.63
+F01394,Commercial Services,Middle East,3428,1287,10,99.63
+F01190,Commercial Services,Asia-Pacific,3427,1288,10,99.64
+F01294,Commercial Services,North America,3418,1289,10,99.64
+F01309,Commercial Services,Europe,3385,1290,10,99.65
+F01176,Waste Management,North America,3363,1291,10,99.65
+F01290,Commercial Services,Latin America,3360,1292,10,99.66
+F01226,Commercial Services,Europe,3356,1293,10,99.66
+F01380,Commercial Services,Asia-Pacific,3289,1294,10,99.67
+F01284,Commercial Services,North America,3281,1295,10,99.67
+F01255,Commercial Services,Latin America,3272,1296,10,99.68
+F00868,Construction,Europe,3258,1297,10,99.68
+F01312,Commercial Services,Asia-Pacific,3254,1298,10,99.69
+F01183,Commercial Services,Europe,3252,1299,10,99.69
+F01195,Commercial Services,Latin America,3237,1300,10,99.70
+F01208,Commercial Services,Asia-Pacific,3231,1301,10,99.70
+F01328,Commercial Services,Latin America,3215,1302,10,99.70
+F01293,Commercial Services,North America,3211,1303,10,99.71
+F01259,Commercial Services,Asia-Pacific,3199,1304,10,99.71
+F01366,Commercial Services,Asia-Pacific,3184,1305,10,99.72
+F01350,Commercial Services,Europe,3120,1306,10,99.72
+F01363,Commercial Services,Latin America,3108,1307,10,99.73
+F01298,Commercial Services,Africa,3046,1308,10,99.73
+F01289,Commercial Services,Asia-Pacific,2986,1309,10,99.74
+F01234,Commercial Services,Asia-Pacific,2949,1310,10,99.74
+F01252,Commercial Services,Asia-Pacific,2942,1311,10,99.75
+F01184,Commercial Services,Asia-Pacific,2916,1312,10,99.75
+F01385,Commercial Services,Africa,2909,1313,10,99.76
+F01329,Commercial Services,Europe,2886,1314,10,99.76
+F01227,Commercial Services,Asia-Pacific,2832,1315,10,99.76
+F01207,Commercial Services,Europe,2772,1316,10,99.77
+F01267,Commercial Services,Africa,2767,1317,10,99.77
+F01356,Commercial Services,North America,2766,1318,10,99.78
+F01269,Commercial Services,Middle East,2732,1319,10,99.78
+F01330,Commercial Services,Europe,2728,1320,10,99.78
+F01370,Commercial Services,Europe,2674,1321,10,99.79
+F01288,Commercial Services,Asia-Pacific,2647,1322,10,99.79
+F01271,Commercial Services,Europe,2642,1323,10,99.80
+F01391,Commercial Services,Europe,2641,1324,10,99.80
+F01237,Commercial Services,Asia-Pacific,2624,1325,10,99.80
+F01292,Commercial Services,Middle East,2594,1326,10,99.81
+F01270,Commercial Services,Europe,2588,1327,10,99.81
+F01325,Commercial Services,Europe,2581,1328,10,99.82
+F01187,Commercial Services,Asia-Pacific,2536,1329,10,99.82
+F01344,Commercial Services,North America,2526,1330,10,99.82
+F01188,Commercial Services,Asia-Pacific,2524,1331,10,99.83
+F01265,Commercial Services,Asia-Pacific,2510,1332,10,99.83
+F01241,Commercial Services,Middle East,2501,1333,10,99.83
+F01220,Commercial Services,Middle East,2499,1334,10,99.84
+F01282,Commercial Services,Africa,2460,1335,10,99.84
+F01368,Commercial Services,Asia-Pacific,2449,1336,10,99.85
+F01342,Commercial Services,Africa,2427,1337,10,99.85
+F01098,Waste Management,Africa,2409,1338,10,99.85
+F01247,Commercial Services,North America,2393,1339,10,99.86
+F01306,Commercial Services,Europe,2354,1340,10,99.86
+F01291,Commercial Services,Asia-Pacific,2326,1341,10,99.86
+F01358,Commercial Services,North America,2316,1342,10,99.87
+F01400,Commercial Services,Asia-Pacific,2294,1343,10,99.87
+F01204,Commercial Services,Middle East,2284,1344,10,99.87
+F01266,Commercial Services,Europe,2280,1345,10,99.88
+F01340,Commercial Services,North America,2276,1346,10,99.88
+F01242,Commercial Services,North America,2220,1347,10,99.88
+F01213,Commercial Services,Africa,2184,1348,10,99.89
+F01337,Commercial Services,Asia-Pacific,2166,1349,10,99.89
+F01381,Commercial Services,Middle East,2138,1350,10,99.89
+F01398,Commercial Services,Asia-Pacific,2131,1351,10,99.90
+F01191,Commercial Services,Asia-Pacific,2130,1352,10,99.90
+F01228,Commercial Services,North America,2095,1353,10,99.90
+F01369,Commercial Services,Europe,2064,1354,10,99.91
+F01231,Commercial Services,Europe,2000,1355,10,99.91
+F00847,Construction,Latin America,1988,1356,10,99.91
+F01392,Commercial Services,Latin America,1980,1357,10,99.92
+F01343,Commercial Services,Asia-Pacific,1970,1358,10,99.92
+F01257,Commercial Services,North America,1938,1359,10,99.92
+F01202,Commercial Services,Asia-Pacific,1938,1360,10,99.92
+F01258,Commercial Services,Europe,1922,1361,10,99.93
+F01221,Commercial Services,Asia-Pacific,1854,1362,10,99.93
+F01254,Commercial Services,Europe,1809,1363,10,99.93
+F01353,Commercial Services,Europe,1804,1364,10,99.94
+F01386,Commercial Services,Africa,1757,1365,10,99.94
+F01224,Commercial Services,Asia-Pacific,1680,1366,10,99.94
+F00782,Construction,Latin America,1664,1367,10,99.94
+F01371,Commercial Services,Middle East,1656,1368,10,99.95
+F01262,Commercial Services,North America,1630,1369,10,99.95
+F01264,Commercial Services,Middle East,1619,1370,10,99.95
+F01360,Commercial Services,Europe,1587,1371,10,99.95
+F01189,Commercial Services,North America,1550,1372,10,99.96
+F01268,Commercial Services,Europe,1498,1373,10,99.96
+F01286,Commercial Services,Africa,1466,1374,10,99.96
+F01321,Commercial Services,Latin America,1454,1375,10,99.96
+F01308,Commercial Services,Asia-Pacific,1446,1376,10,99.96
+F01338,Commercial Services,Latin America,1431,1377,10,99.97
+F01235,Commercial Services,Europe,1428,1378,10,99.97
+F01331,Commercial Services,North America,1390,1379,10,99.97
+F01354,Commercial Services,Middle East,1370,1380,10,99.97
+F01281,Commercial Services,Africa,1332,1381,10,99.97
+F01296,Commercial Services,Africa,1328,1382,10,99.98
+F01396,Commercial Services,Asia-Pacific,1245,1383,10,99.98
+F01256,Commercial Services,Europe,1193,1384,10,99.98
+F01299,Commercial Services,Europe,1125,1385,10,99.98
+F01197,Commercial Services,North America,1092,1386,10,99.98
+F01297,Commercial Services,Europe,1036,1387,10,99.98
+F01201,Commercial Services,Africa,1001,1388,10,99.99
+F01395,Commercial Services,Asia-Pacific,986,1389,10,99.99
+F01263,Commercial Services,Latin America,960,1390,10,99.99
+F01346,Commercial Services,Europe,896,1391,10,99.99
+F01196,Commercial Services,Latin America,885,1392,10,99.99
+F01212,Commercial Services,North America,881,1393,10,99.99
+F01377,Commercial Services,Latin America,871,1394,10,99.99
+F01382,Commercial Services,Latin America,826,1395,10,100.00
+F01367,Commercial Services,Middle East,730,1396,10,100.00
+F01304,Commercial Services,Latin America,674,1397,10,100.00
+F01211,Commercial Services,Europe,655,1398,10,100.00
+F01378,Commercial Services,Europe,432,1399,10,100.00
+F01339,Commercial Services,Europe,312,1400,10,100.00

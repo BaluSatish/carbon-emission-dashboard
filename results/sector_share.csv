@@ -1,0 +1,9 @@
+sector,total_co2e_tonnes,share_pct_all_years,co2e_2023_tonnes,share_pct_2023,rank_all_years
+Manufacturing,197841865,32.05,21476439,32.21,1
+Power & Utilities,158925991,25.74,16375628,24.56,2
+Transportation,95201328,15.42,10685791,16.03,3
+Mining,66526092,10.78,7296929,10.95,4
+Agriculture & Food,40071490,6.49,4442549,6.66,5
+Construction,30203304,4.89,3344578,5.02,6
+Waste Management,19725271,3.20,2096705,3.14,7
+Commercial Services,8870077,1.44,949642,1.42,8
